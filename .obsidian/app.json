@@ -1,0 +1,8 @@
+{
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "source",
+  "showLineNumber": true,
+  "attachmentFolderPath": "./assets ",
+  "newLinkFormat": "absolute"
+}
