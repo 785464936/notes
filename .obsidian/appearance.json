@@ -1,3 +1,7 @@
 {
-  "cssTheme": "Tokyo Night"
+  "cssTheme": "Tokyo Night",
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "0xProto Nerd Font Mono",
+  "baseFontSize": 24,
+  "showViewHeader": false
 }
