@@ -1,13 +1,5 @@
 {
-<<<<<<< HEAD
   "cssTheme": "Tokyo Night",
   "baseFontSizeAction": true,
-  "monospaceFontFamily": "0xProto Nerd Font Mono",
-  "baseFontSize": 24,
-  "showViewHeader": false
-=======
-  "baseFontSizeAction": true,
-  "baseFontSize": 24,
-  "cssTheme": "Tokyo Night"
->>>>>>> notes/master
+  "baseFontSize": 24
 }

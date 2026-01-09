@@ -29,7 +29,7 @@ markmap/
 config.yml
 *.env
 !.env.example
-*.json
+# *.json
 
 .gitignore
 .obsidian
