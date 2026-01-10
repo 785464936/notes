@@ -164,9 +164,19 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
+      },
+      {
+        "id": "35510a3b6acff80e",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,9 +191,9 @@
   },
   "active": "aa8b00866bc64959",
   "lastOpenFiles": [
-    "课程复习/机械制造工程学/机械制造工程学-复习_AI answer.md",
-    "课程复习/机电传动与PLC控制/机电传动与PLC控制复习.md",
     "assets/fig/1.png.md",
+    "课程复习/机电传动与PLC控制/机电传动与PLC控制复习.md",
+    "课程复习/机械制造工程学/机械制造工程学-复习_AI answer.md",
     "assets/fig",
     "assets",
     "课程复习/机械制造工程学/机械制造工程学-复习.md",

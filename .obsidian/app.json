@@ -29,5 +29,6 @@
     "editor:redo",
     "editor:configure-toolbar",
     "editor:insert-mathblock"
-  ]
+  ],
+  "promptDelete": false
 }
