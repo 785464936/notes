@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Tokyo Night",
   "baseFontSizeAction": true,
-  "baseFontSize": 24
+  "baseFontSize": 24,
+  "cssTheme": "Tokyo Night"
 }
