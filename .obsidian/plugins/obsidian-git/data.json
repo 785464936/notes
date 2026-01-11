@@ -34,7 +34,7 @@
   "showFileMenu": true,
   "authorInHistoryView": "initials",
   "dateInHistoryView": false,
-  "diffStyle": "split",
+  "diffStyle": "git_unified",
   "hunks": {
     "showSigns": false,
     "hunkCommands": false,
