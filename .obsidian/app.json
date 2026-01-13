@@ -3,8 +3,8 @@
   "strictLineBreaks": true,
   "propertiesInDocument": "source",
   "showLineNumber": true,
-  "attachmentFolderPath": "./assets ",
-  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "./assets",
+  "newLinkFormat": "shortest",
   "useTab": false,
   "alwaysUpdateLinks": true,
   "mobileToolbarCommands": [
@@ -30,5 +30,8 @@
     "editor:configure-toolbar",
     "editor:insert-mathblock"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
 }
