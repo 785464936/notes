@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "6cc94781c9a85a62",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d5b1db4c3fe3795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1b4201fb38d5227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01Project/课程复习/机械工程测控基础/测控复习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "测控复习"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23f2aab8a144c7a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "36d4ce7739ace887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85248fc5287df722",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "09c4caac3ab35d91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "acf0c1de09cd7130",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a704492c07d2f67b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5a749a8e4865e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff6489f1567d0dcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "课程复习/机械制造工程学/机械制造工程学-复习_AI answer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "机械制造工程学-复习_AI answer 的反向链接列表"
+            }
+          },
+          {
+            "id": "811947eeab01f5ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "课程复习/机械制造工程学/机械制造工程学-复习_AI answer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "机械制造工程学-复习_AI answer 的出链列表"
+            }
+          },
+          {
+            "id": "c5f78d25190aa799",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "572fe8fbe1b4606c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "378f4f54e86fc504",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "课程复习/机械制造工程学/机械制造工程学-复习_AI answer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "机械制造工程学-复习_AI answer 的大纲"
+            }
+          },
+          {
+            "id": "851e1b0c41211e97",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "22a1314a8ee00460",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "excalidraw-sidepanel"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:打开/创建今天的日记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "zk-prefixer:创建时间戳笔记": false
+    }
+  },
+  "active": "f1b4201fb38d5227",
+  "lastOpenFiles": [
+    "READMD.md",
+    "04Archive/课程复习/机器视觉精密测量/机器视觉精密测量-复习.md",
+    "04Archive/课程复习/机械制造工程学/assets/docs/1_河北科技大学 机械制造工程学2023.5.25(1).pdf",
+    "04Archive/课程复习/机器视觉精密测量/export",
+    "04Archive/课程复习/机械制造工程学/export",
+    "04Archive/课程复习/机械制造工程学/assets/docs/考前复习-机械制造工程学[兼容模式].pdf",
+    "04Archive/课程复习/机械制造工程学/assets/scripts",
+    "04Archive/课程复习/机械制造工程学/assets/docs/学习通37页19级题库.pdf",
+    "04Archive/课程复习/机械制造工程学/assets/fig/4.png",
+    "04Archive/课程复习/机械制造工程学/assets/fig/6.jpg",
+    "04Archive/课程复习/机械制造工程学/assets/fig/5.jpg",
+    "01Project/课程复习/机械工程测控基础/测控复习.md",
+    "03Resource/Tools",
+    "04Archive/课程复习",
+    "04Archive",
+    "03Resource",
+    "01Project/课程复习/机械工程测控基础/assets/fig/4.jpg",
+    "04Archive/课程复习/机械制造工程学/机械制造工程学-复习_AI answer.md",
+    "04Archive/课程复习/机械制造工程学/机械制造工程学-复习.md",
+    "TODO.md",
+    "未命名.canvas",
+    "01Project/课程复习/机电传动与PLC控制/机电传动与PLC控制复习.md",
+    "202601112253.md",
+    "04Archive/课程复习/机械制造工程学/assets/fig/3.png",
+    "conflict-files-obsidian-git.md",
+    "01Project/课程复习/机电传动与PLC控制/assets/fig/1.jpg",
+    "assets/fig/1.png.md",
+    "01Project/课程复习/机械工程测控基础/assets/fig/3.png",
+    "课程复习/3.png",
+    "课程复习/ec7858e46c43460ea6ee34cc175a699f.png",
+    "01Project/课程复习/机械工程测控基础/assets/fig/1.jpg",
+    "2026-01-09.md",
+    "课程复习/机械制造工程学/复习.md",
+    "ADfvl2vZHg90AAAAAElFTkSuQmCC.md",
+    "课程复习/机械制造工程学/机械制造工程学-复习_AIanswer.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Drawing 2026-01-07 20.40.47.excalidraw.md",
+    "2026-01-07.md",
+    "Excalidraw/Drawing 2026-01-07 20.13.00.excalidraw.md",
+    "课程复习/复习.md",
+    "机器视觉精密测量-复习.md",
+    "未命名 1.canvas"
+  ]
+}
