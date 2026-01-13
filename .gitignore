@@ -32,6 +32,5 @@ config.yml
 *.json
 
 .gitignore
-.obsidian/
-
+.trash
 */*未命名.md
