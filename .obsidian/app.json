@@ -30,12 +30,5 @@
     "editor:configure-toolbar",
     "editor:insert-mathblock"
   ],
-  "promptDelete": false,
-  "pdfExportSettings": {
-    "includeName": false,
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 50
-  }
+  "promptDelete": false
 }
