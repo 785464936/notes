@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 212.5
   },
   "right": {
     "id": "a704492c07d2f67b",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程复习/机械制造工程学/机械制造工程学-复习_AI answer.md",
+                "file": "01Project/课程复习/机械工程测控基础/测控复习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "机械制造工程学-复习_AI answer 的大纲"
+              "title": "测控复习 的大纲"
             }
           },
           {
@@ -186,11 +186,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +208,11 @@
   },
   "active": "f1b4201fb38d5227",
   "lastOpenFiles": [
+    "01Project/课程复习/机械工程测控基础/assets/fig/6.png",
+    "01Project/课程复习/机械工程测控基础/测控复习.md",
+    "01Project/课程复习/机械工程测控基础/assets/fig/8.png",
+    "01Project/课程复习/机械工程测控基础/assets/fig/7.png",
+    "01Project/课程复习/机械工程测控基础/assets/fig/5.png",
     "READMD.md",
     "04Archive/课程复习/机器视觉精密测量/机器视觉精密测量-复习.md",
     "04Archive/课程复习/机械制造工程学/assets/docs/1_河北科技大学 机械制造工程学2023.5.25(1).pdf",
@@ -218,7 +224,6 @@
     "04Archive/课程复习/机械制造工程学/assets/fig/4.png",
     "04Archive/课程复习/机械制造工程学/assets/fig/6.jpg",
     "04Archive/课程复习/机械制造工程学/assets/fig/5.jpg",
-    "01Project/课程复习/机械工程测控基础/测控复习.md",
     "03Resource/Tools",
     "04Archive/课程复习",
     "04Archive",
@@ -234,10 +239,6 @@
     "conflict-files-obsidian-git.md",
     "01Project/课程复习/机电传动与PLC控制/assets/fig/1.jpg",
     "assets/fig/1.png.md",
-    "01Project/课程复习/机械工程测控基础/assets/fig/3.png",
-    "课程复习/3.png",
-    "课程复习/ec7858e46c43460ea6ee34cc175a699f.png",
-    "01Project/课程复习/机械工程测控基础/assets/fig/1.jpg",
     "2026-01-09.md",
     "课程复习/机械制造工程学/复习.md",
     "ADfvl2vZHg90AAAAAElFTkSuQmCC.md",
