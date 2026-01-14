@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 220.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,12 +205,16 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "85248fc5287df722",
+  "active": "f1b4201fb38d5227",
   "lastOpenFiles": [
+    "01Project/课程复习/机械工程测控基础/assets/fig/11.png",
+    "01Project/课程复习/机械工程测控基础/测控复习.md",
+    "01Project/课程复习/机电传动与PLC控制/机电传动与PLC控制复习.md",
+    "01Project/课程复习/机械工程测控基础/assets/fig/10.png",
+    "01Project/课程复习/机械工程测控基础/assets/fig/9.png",
     "01Project/课程复习/机械工程测控基础/assets/fig/8.png",
     "01Project/课程复习/机械工程测控基础/assets/fig/8.png",
     "01Project/课程复习/机械工程测控基础/assets/fig/7.png",
-    "01Project/课程复习/机械工程测控基础/测控复习.md",
     "01Project/课程复习/机械工程测控基础/assets/fig/6.png",
     "01Project/课程复习/机械工程测控基础/assets/fig/5.png",
     "01Project/课程复习/机械工程测控基础/export/测控复习.pdf",
@@ -227,16 +230,12 @@
     "04Archive/课程复习/机械制造工程学/assets/docs/学习通37页19级题库.pdf",
     "04Archive/课程复习/机械制造工程学/assets/fig/4.png",
     "04Archive/课程复习/机械制造工程学/assets/fig/6.jpg",
-    "04Archive/课程复习/机械制造工程学/assets/fig/5.jpg",
     "03Resource/Tools",
-    "01Project/课程复习/机械工程测控基础/assets/fig/4.jpg",
     "04Archive/课程复习/机械制造工程学/机械制造工程学-复习_AI answer.md",
     "04Archive/课程复习/机械制造工程学/机械制造工程学-复习.md",
     "TODO.md",
     "未命名.canvas",
-    "01Project/课程复习/机电传动与PLC控制/机电传动与PLC控制复习.md",
     "202601112253.md",
-    "04Archive/课程复习/机械制造工程学/assets/fig/3.png",
     "conflict-files-obsidian-git.md",
     "assets/fig/1.png.md",
     "2026-01-09.md",
