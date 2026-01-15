@@ -3,5 +3,6 @@
   "obsidian-latex-suite",
   "dataview",
   "typewriter-mode",
-  "mousewheel-image-zoom"
+  "mousewheel-image-zoom",
+  "obsidian-pandoc"
 ]
