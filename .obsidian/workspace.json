@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "2d5b1db4c3fe3795",
+        "id": "1307cfa55af7486a",
         "type": "tabs",
         "children": [
           {
-            "id": "650eec84e4588146",
+            "id": "4a51e69545cc1e34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01Project/课程复习/机械工程测控基础/测控复习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "测控复习"
+            }
+          },
+          {
+            "id": "92005a1376836dae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03Resource/AI Prompt.md",
+                "file": "01Project/课程复习/机械工程测控基础/测控复习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI Prompt 的大纲"
+              "title": "测控复习 的大纲"
             }
           },
           {
@@ -205,10 +219,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "650eec84e4588146",
+  "active": "4a51e69545cc1e34",
   "lastOpenFiles": [
-    "01Project/课程复习/机械工程测控基础/测控复习.md",
     "03Resource/AI Prompt.md",
+    "01Project/课程复习/机械工程测控基础/测控复习.md",
     "01Project/课程复习/机电传动与PLC控制/机电传动与PLC控制复习.md",
     "01Project/课程设计/课程设计说明书.md",
     "01Project/课程复习/机电传动与PLC控制/assets/docs/《机电传动控制》期末考试复习A-B卷(1).pdf",
