@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01Project/课程复习/机电传动与PLC控制/机电传动与PLC控制复习.md",
+                "file": "01Project/课程复习/机械工程测控基础/测控复习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "机电传动与PLC控制复习"
+              "title": "测控复习"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01Project/课程复习/机电传动与PLC控制/机电传动与PLC控制复习.md",
+                "file": "01Project/课程复习/机械工程测控基础/测控复习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "机电传动与PLC控制复习 的大纲"
+              "title": "测控复习 的大纲"
             }
           },
           {
@@ -221,10 +221,11 @@
   },
   "active": "4a51e69545cc1e34",
   "lastOpenFiles": [
+    "01Project/课程复习/机械工程测控基础/export/测控复习.pdf",
+    "01Project/课程复习/机电传动与PLC控制/机电传动与PLC控制复习.md",
     "01Project/课程复习/机电传动与PLC控制/assets/docs/机电系统电气控制.pdf",
     "01Project/课程复习/机械工程测控基础/测控复习.md",
     "03Resource/AI Prompt.md",
-    "01Project/课程复习/机电传动与PLC控制/机电传动与PLC控制复习.md",
     "01Project/课程设计/课程设计说明书.md",
     "01Project/课程复习/机电传动与PLC控制/assets/docs/《机电传动控制》期末考试复习A-B卷(1).pdf",
     "01Project/课程复习/机电传动与PLC控制/assets/docs/机电传动控制与plc 2020—2021.pdf",
