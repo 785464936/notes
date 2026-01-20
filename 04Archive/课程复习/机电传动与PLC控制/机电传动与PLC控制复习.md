@@ -1,5 +1,5 @@
 ### 转动惯量折算
-![](01Project/课程复习/机电传动与PLC控制/assets/fig/1.jpg)
+![](assets/fig/1.jpg)
 $$
 \begin{aligned}
 j_1 &= \frac{\omega_{M}}{\omega_1} = \frac{n_M}{n_1} = 3 \\
