@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04Archive/课程复习/机械工程测控基础/测控复习.md",
+                "file": "01Project/课程设计/产品制造综合实践/课程设计说明书.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测控复习"
+              "title": "课程设计说明书"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04Archive/课程复习/机械工程测控基础/测控复习.md",
+                "file": "01Project/课程设计/产品制造综合实践/课程设计说明书.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "测控复习 的大纲"
+              "title": "课程设计说明书 的大纲"
             }
           },
           {
@@ -204,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 220.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,14 +220,18 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "85248fc5287df722",
+  "active": "4a51e69545cc1e34",
   "lastOpenFiles": [
+    "01Project/课程设计/产品制造综合实践/assets/3.png",
+    "01Project/课程设计/产品制造综合实践/assets/2.png",
+    "01Project/课程设计/产品制造综合实践/assets/1.png",
+    "01Project/课程设计/产品制造综合实践/课程设计说明书.md",
+    "01Project/课程设计/产品制造综合实践/assets",
+    "03Resource/AI Prompt.md",
+    "04Archive/课程复习/机械工程测控基础/测控复习.md",
     "04Archive/课程复习/机械工程测控基础/export/测控复习.pdf",
     "04Archive/课程复习/机电传动与PLC控制/机电传动与PLC控制复习.md",
     "04Archive/课程复习/机电传动与PLC控制/assets/docs/机电系统电气控制.pdf",
-    "04Archive/课程复习/机械工程测控基础/测控复习.md",
-    "03Resource/AI Prompt.md",
-    "01Project/课程设计/课程设计说明书.md",
     "04Archive/课程复习/机电传动与PLC控制/assets/docs/《机电传动控制》期末考试复习A-B卷(1).pdf",
     "04Archive/课程复习/机电传动与PLC控制/assets/docs/机电传动控制与plc 2020—2021.pdf",
     "04Archive/课程复习/机电传动与PLC控制/assets/docs/机电传动控制----5套期末试题及答案.doc",
@@ -234,8 +239,6 @@
     "01Project/课程复习/机电传动与PLC控制/assets/新建文件夹",
     "01Project/课程设计/产品制造综合实践",
     "01Project/课设-机械产品设计/~WRL0928.tmp",
-    "01Project/课设-机械产品设计/~WRD0921.tmp",
-    "01Project/课设-机械产品设计/~WRD0917.tmp",
     "01Project/课设-机械产品设计/formatted_verification.md",
     "01Project/课设-机械产品设计/node_modules/jszip/graph.svg",
     "01Project/课设-机械产品设计/node_modules/docx/README.md",
@@ -263,9 +266,6 @@
     "01Project/课设-机械产品设计/().md",
     "04Archive/课程复习/机械工程测控基础/assets/fig/11.png",
     "04Archive/课程复习/机械工程测控基础/assets/fig/10.png",
-    "04Archive/课程复习/机械工程测控基础/assets/fig/9.png",
-    "04Archive/课程复习/机械工程测控基础/assets/fig/8.png",
-    "04Archive/课程复习/机械工程测控基础/assets/fig/8.png",
     "READMD.md",
     "未命名.canvas",
     "未命名 1.canvas"
