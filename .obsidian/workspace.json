@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03Resource/AI Prompt.md",
+                "file": "04Archive/课程设计/产品制造综合实践/课程设计说明书.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI Prompt 的大纲"
+              "title": "课程设计说明书 的大纲"
             }
           },
           {
@@ -171,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -184,13 +184,28 @@
               "icon": "lucide-ghost",
               "title": "excalidraw-sidepanel"
             }
+          },
+          {
+            "id": "050efaa45b2019db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 220.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,19 +216,22 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
       "obsidian-git:Open Git source control": false,
-      "zk-prefixer:创建时间戳笔记": false
+      "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "85248fc5287df722",
+  "active": "92005a1376836dae",
   "lastOpenFiles": [
     "04Archive/课程设计/产品制造综合实践/课程设计说明书.md",
+    "04Archive/课程设计/产品制造综合实践/未命名看板.md",
+    "03Resource/AI Prompt.md",
     "01Project/课程复习",
     "04Archive/课程设计/产品制造综合实践/assets/3.png",
     "04Archive/课程设计/产品制造综合实践/assets/2.png",
     "04Archive/课程设计/产品制造综合实践/assets/1.png",
     "04Archive/课程设计/产品制造综合实践/assets",
-    "03Resource/AI Prompt.md",
     "04Archive/课程复习/机械工程测控基础/测控复习.md",
     "04Archive/课程复习/机械工程测控基础/export/测控复习.pdf",
     "04Archive/课程复习/机电传动与PLC控制/机电传动与PLC控制复习.md",

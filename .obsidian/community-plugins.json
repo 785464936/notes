@@ -4,5 +4,7 @@
   "dataview",
   "typewriter-mode",
   "mousewheel-image-zoom",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-kanban",
+  "remember-cursor-position"
 ]
