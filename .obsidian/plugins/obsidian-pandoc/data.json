@@ -1,15 +1,15 @@
 {
-  "showCLICommands": false,
+  "showCLICommands": true,
   "addExtensionsToInternalLinks": "html",
   "injectAppCSS": "light",
   "injectThemeCSS": false,
   "customCSSFile": null,
   "displayYAMLFrontmatter": false,
-  "linkStrippingBehaviour": "text",
+  "linkStrippingBehaviour": "link",
   "highDPIDiagrams": true,
   "pandoc": null,
   "pdflatex": null,
   "outputFolder": null,
-  "extraArguments": "--reference-doc=template.docx -o output.docx",
-  "exportFrom": "html"
+  "extraArguments": "--lua-filter=C:\\Users\\eleven\\AppData\\Roaming\\pandoc\\filters\\zotero.lua --reference-doc ",
+  "exportFrom": "md"
 }
