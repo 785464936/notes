@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03Resource/AI Prompt.md",
+                "file": "产品制造综合实践-课程设计说明书.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Prompt"
+              "title": "产品制造综合实践-课程设计说明书"
             }
           }
         ]
@@ -166,16 +166,6 @@
             }
           },
           {
-            "id": "851e1b0c41211e97",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
             "id": "22a1314a8ee00460",
             "type": "leaf",
             "state": {
@@ -217,33 +207,49 @@
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "workspaces:管理工作区布局": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:创建新看板": false
+      "workspaces:管理工作区布局": false
     }
   },
   "active": "92005a1376836dae",
   "lastOpenFiles": [
+    "测控复习.md",
+    "assets/fig/jxzzgc-xxt-1.png",
+    "Templates/课程设计说明书.docx",
+    "Templates",
+    "AI Prompt.md",
+    "assets/fig/jxzzgc-xxt-37.png",
+    "assets/fig/jxzzgc-xxt-36.png",
+    "assets/fig/jxzzgc-xxt-35.png",
+    "assets/fig/jxzzgc-xxt-34.png",
+    "assets/fig/jxzzgc-xxt-33.png",
+    "assets/fig/jxzzgc-xxt-32.png",
+    "assets/fig/jxzzgc-xxt-31.png",
+    "assets/fig/jxzzgc-xxt-30.png",
+    "assets/fig/jxzzgc-xxt-29.png",
+    "assets/docs/1_河北科技大学 机械制造工程学2023.5.25(1).pdf",
+    "assets/docs/机械制造工程学-1大.pdf",
+    "assets/docs/机械制造工程学-2_1_1.pdf",
+    "assets/docs/机械制造工程学-1小.pdf",
+    "assets/docs/机械制造工程学2023—2024.pdf",
+    "assets/docs/考前复习-机械制造工程学[兼容模式].pdf",
+    "assets/docs/机械制造工程学-简答题与名词解释.pdf",
+    "assets/docs/机械制造工程学-学习通37页19级题库.pdf",
+    "机械制造工程学-复习.md",
+    "机械制造工程学-复习_AI answer.md",
+    "机器视觉精密测量-复习.md",
+    "机电传动与PLC控制复习.md",
+    "产品制造综合实践-课程设计说明书.md",
+    "04Archive/课程复习/机电传动与PLC控制/机电传动与PLC控制复习.md",
+    "04Archive/课程设计/产品制造综合实践/产品制造综合实践-课程设计说明书.md",
+    "04Archive/课程设计/产品制造综合实践/().md",
+    "04Archive/课程复习/机械制造工程学/机械制造工程学-复习_AI answer.md",
+    "04Archive/课程复习/机械制造工程学/机械制造工程学-复习.md",
+    "02Area/公式.md",
+    "03Resource/AI Prompt.md",
     "04Archive/课程设计/产品制造综合实践/课程设计说明书.md",
     "04Archive/课程设计/产品制造综合实践/未命名看板.md",
-    "03Resource/AI Prompt.md",
-    "01Project/课程复习",
-    "04Archive/课程设计/产品制造综合实践/assets/3.png",
-    "04Archive/课程设计/产品制造综合实践/assets/2.png",
-    "04Archive/课程设计/产品制造综合实践/assets/1.png",
-    "04Archive/课程设计/产品制造综合实践/assets",
     "04Archive/课程复习/机械工程测控基础/测控复习.md",
-    "04Archive/课程复习/机械工程测控基础/export/测控复习.pdf",
-    "04Archive/课程复习/机电传动与PLC控制/机电传动与PLC控制复习.md",
-    "04Archive/课程复习/机电传动与PLC控制/assets/docs/机电系统电气控制.pdf",
-    "04Archive/课程复习/机电传动与PLC控制/assets/docs/《机电传动控制》期末考试复习A-B卷(1).pdf",
-    "04Archive/课程复习/机电传动与PLC控制/assets/docs/机电传动控制与plc 2020—2021.pdf",
-    "04Archive/课程复习/机电传动与PLC控制/assets/docs/机电传动控制----5套期末试题及答案.doc",
-    "04Archive/课程复习/机电传动与PLC控制/assets/docs",
-    "01Project/课程复习/机电传动与PLC控制/assets/新建文件夹",
-    "04Archive/课程设计/产品制造综合实践",
     "01Project/课设-机械产品设计/formatted_verification.md",
-    "01Project/课设-机械产品设计/node_modules/jszip/graph.svg",
     "01Project/课设-机械产品设计/node_modules/docx/README.md",
     "01Project/课设-机械产品设计/node_modules/xml-js/README.md",
     "01Project/课设-机械产品设计/node_modules/readable-stream/README.md",
@@ -251,25 +257,6 @@
     "01Project/课设-机械产品设计/node_modules/readable-stream/CONTRIBUTING.md",
     "01Project/课设-机械产品设计/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md",
     "01Project/课设-机械产品设计/node_modules/undici-types/README.md",
-    "01Project/课设-机械产品设计/node_modules/xml/readme.md",
-    "01Project/课设-机械产品设计/node_modules/minimalistic-assert/readme.md",
-    "01Project/课设-机械产品设计/node_modules/lie/README.md",
-    "01Project/课设-机械产品设计/node_modules/lie/license.md",
-    "01Project/课设-机械产品设计/node_modules/@types/node/README.md",
-    "01Project/课设-机械产品设计/node_modules/immediate/README.md",
-    "01Project/课设-机械产品设计/node_modules/util-deprecate/History.md",
-    "01Project/课设-机械产品设计/node_modules/string_decoder/README.md",
-    "01Project/课设-机械产品设计/node_modules/safe-buffer/README.md",
-    "01Project/课设-机械产品设计/current.md",
-    "01Project/课设-机械产品设计/template.md",
-    "01Project/课设-机械产品设计/assets/Pasted image 20260115221328.png",
-    "01Project/课设-机械产品设计/assets/Pasted image 20260115221258.png",
-    "01Project/课设-机械产品设计/assets/Pasted image 20260115221233.png",
-    "01Project/课设-机械产品设计/assets/Pasted image 20260115221142.png",
-    "01Project/课设-机械产品设计/().md",
-    "04Archive/课程复习/机械工程测控基础/assets/fig/11.png",
-    "04Archive/课程复习/机械工程测控基础/assets/fig/10.png",
-    "READMD.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

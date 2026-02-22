@@ -1,5 +1,5 @@
-### 转动惯量折算
-![](assets/fig/1.jpg)
+### 转动惯量折算 
+![](assets/fig/机电传动eg2.7.jpg)
 $$
 \begin{aligned}
 j_1 &= \frac{\omega_{M}}{\omega_1} = \frac{n_M}{n_1} = 3 \\
