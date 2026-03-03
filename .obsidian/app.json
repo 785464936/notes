@@ -4,7 +4,7 @@
   "propertiesInDocument": "visible",
   "showLineNumber": true,
   "attachmentFolderPath": "./assets",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "useTab": false,
   "alwaysUpdateLinks": true,
   "mobileToolbarCommands": [
