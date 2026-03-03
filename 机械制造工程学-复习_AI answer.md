@@ -1,3 +1,8 @@
+---
+tags:
+  - 复习
+---
+
 ![NOTICE]
 本文档答案均由 <img src="https://ts4.tc.mm.bing.net/th/id/OIP-C.Fq9aPc2adtmlhGlNUNFMMQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" alt="GLM 4.6" style="width: 28px; height: 28px;"> ``GLM 4.6`` 识别并生成，答案来源 学习通文档 *课改前练习* 及互联网，仅供参考。
 

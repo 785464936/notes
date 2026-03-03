@@ -5,5 +5,10 @@
   "mousewheel-image-zoom",
   "obsidian-pandoc",
   "remember-cursor-position",
-  "obsidian-zotero-desktop-connector"
+  "obsidian-zotero-desktop-connector",
+  "templater-obsidian",
+  "obsidian-minimal-settings",
+  "obsidian-excalidraw-plugin",
+  "easy-typing-obsidian",
+  "obsidian-hider"
 ]

@@ -1,0 +1,35 @@
+formulas:
+  文件大小: (file.size / 1024 / 1024).toFixed(2)+" MB"
+views:
+  - type: table
+    name: 文件
+    filters:
+      and:
+        - '!file.ext.containsAny("pdf", "doc", "png", "jpg", "webp")'
+    order:
+      - file.name
+      - file.ctime
+      - file.ext
+      - file.links
+      - file.tags
+    sort:
+      - property: file.ctime
+        direction: DESC
+      - property: file.tags
+        direction: DESC
+  - type: table
+    name: 附件
+    filters:
+      and:
+        - file.folder.contains("assets")
+    order:
+      - file.name
+      - file.backlinks
+      - file.ext
+      - formula.文件大小
+    sort:
+      - property: formula.文件大小
+        direction: DESC
+    summaries:
+      formula.文件大小: new summary
+    columnSize: {}
