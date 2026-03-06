@@ -14,7 +14,7 @@
   "ChineseNoSpace": true,
   "QuoteSpace": true,
   "PunctuationSpace": true,
-  "AutoCapital": true,
+  "AutoCapital": false,
   "AutoCapitalMode": "typing",
   "PunctuationSpaceMode": "typing",
   "InlineCodeSpaceMode": 1,
@@ -48,6 +48,22 @@
     [
       ":)|",
       "😀|"
+    ],
+    [
+      "、、|",
+      "\\\\|"
+    ],
+    [
+      "!tip|",
+      "> [!tip]\n> |"
+    ],
+    [
+      "!eg|",
+      "> [!e.g.]\n> |"
+    ],
+    [
+      "!定理|",
+      "> [!定理]\n> |"
     ]
   ],
   "userSelRuleSettingsOpen": true,

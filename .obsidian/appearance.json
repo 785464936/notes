@@ -1,5 +1,6 @@
 {
   "baseFontSizeAction": true,
-  "baseFontSize": 27,
-  "cssTheme": "Minimal"
+  "baseFontSize": 30,
+  "cssTheme": "Minimal",
+  "theme": "system"
 }
