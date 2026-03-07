@@ -1,0 +1,118 @@
+.contribution-graph {
+  margin: 10px 0;
+}
+
+/* 主容器布局 - 垂直排列 */
+.contribution-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+}
+
+/* 分隔线 - 浅灰色横线 */
+.divider {
+  height: 2px;
+  background-color: #d0d7de;
+  align-self: center;
+  width: 80%;
+}
+
+/* 周视图 - 横向显示，方块 20px */
+.view-week {
+  display: flex;
+  justify-content: center;
+}
+
+.week-grid {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: center;
+}
+
+/* 年视图 - 方块 14px */
+.view-year {
+  display: flex;
+  justify-content: center;
+}
+
+.year-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+}
+
+.year-half {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-start;
+  overflow-x: auto;
+}
+
+.month-block {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 90px;
+  flex: 0 0 auto;
+}
+
+.week-row {
+  display: flex;
+  gap: 4px;
+  flex-wrap: nowrap;
+}
+
+/* 周视图方块 - 20px */
+.view-week .day {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+/* 年视图方块 - 14px */
+.view-year .day {
+  width: 14px;
+  height: 14px;
+  border-radius: 4px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+/* 高亮今天的样式 - 1px边框 */
+.day.today {
+  border: 1px solid #00ff88;
+}
+
+.day.level-0 {
+  background-color: var(--background-modifier-border);
+}
+
+.day.level-1 {
+  background-color: #9be9a8;
+}
+
+.day.level-2 {
+  background-color: #40c463;
+}
+
+.day.level-3 {
+  background-color: #30a14e;
+}
+
+.day.level-4 {
+  background-color: #216e39;
+}
+
+.day.empty {
+  background-color: transparent;
+}
+
+.day:hover {
+  transform: scale(1.2);
+  border: 1px solid var(--text-normal);
+}

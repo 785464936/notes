@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a306911d9d4c5f26",
+        "id": "db9c8b2eede58886",
         "type": "tabs",
         "children": [
           {
-            "id": "6f4bd800ad9ca365",
+            "id": "89ddee9dbbb21bff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学二.md",
+                "file": "HOME.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数学二"
+              "title": "HOME"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#单调有界准则",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学二.md",
+                "file": "HOME.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数学二 的大纲"
+              "title": "HOME 的大纲"
             }
           },
           {
@@ -198,41 +198,46 @@
       "zk-prefixer:创建时间戳笔记": false,
       "workspaces:管理工作区布局": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "6f4bd800ad9ca365",
+  "active": "89ddee9dbbb21bff",
   "lastOpenFiles": [
-    "极限存在准则.md",
+    "闪念胶囊.md",
+    "HOME.md",
+    "contributions.json",
+    "contributions_march_2026.txt",
+    "函数图像.md",
+    "homepage.md",
     "数学二.md",
+    "函数的性质.md",
     "无穷小量.md",
-    "assets/fig/极限存在准则eg6.png",
+    "极限存在准则.md",
+    "极限的性质.md",
+    "极限的概念.md",
     "无穷大量.md",
-    "未命名.md",
+    "函数概念及常见函数.md",
+    "2026-03-07.md",
+    "Templates/考研学习笔记.md",
+    "assets/fig/极限存在准则eg6.png",
     "高等数学概览.md",
     "assets/fig/极限存在准则eg8解2.png",
     "assets/fig/极限存在准则eg8解1.png",
     "assets/fig/极限存在准则eg7.png",
-    "极限的性质.md",
     "assets/fig/极限性质eg5解2.png",
     "做题方法.md",
     "assets/fig/极限性质eg5解1.png",
     "assets/exports/极限的性质.pdf",
-    "极限的概念.md",
     "assets/fig/极限eg1.png",
     "assets/fig/极限eg4.png",
     "assets/fig/极限eg3.png",
     "assets/fig/极限eg2.png",
-    "函数的性质.md",
     "bin.txt",
-    "函数概念及常见函数.md",
     "AIO.base",
     "AGENTS.md",
-    "Templates/考研学习笔记.md",
     "极限.md",
     "函数极限连续.md",
     "测控复习.md",
-    "杂事速记.md",
     "existing_repo",
     "assets/ps.ps1",
     "2026-03-04.md",
@@ -240,14 +245,9 @@
     "assets/words/xcdlS.md",
     "assets/words/ZZZ.md",
     "assets/words/zZWEjS.md",
-    "assets/words/ZZW.md",
-    "assets/words/zzU.md",
-    "assets/words/ZZE.md",
     "assets/words",
     "Excalidraw",
     "未命名.base",
-    "软件统计.base",
-    "Templates/课程设计说明书.docx",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

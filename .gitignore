@@ -22,7 +22,7 @@ Thumbs.db
 software/
 node_modules/
 __pycache__/
-# Excalidraw/
+Excalidraw/
 # markmap/
 
 # 配置文件（但排除模板）
@@ -36,3 +36,5 @@ config.yml
 
 */*未命名.md
 */export/
+
+cursor-positions.json

@@ -2,5 +2,12 @@
   "baseFontSizeAction": true,
   "baseFontSize": 30,
   "cssTheme": "Minimal",
-  "theme": "system"
+  "theme": "system",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "contribution-graph"
+  ],
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "",
+  "textFontFamily": "JetBrainsMono Nerd Font,0xProto Nerd Font"
 }
