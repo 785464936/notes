@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常用等价无穷小.md",
+                "file": "常用求极限的 8 种方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用等价无穷小"
+              "title": "常用求极限的 8 种方法"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常用等价无穷小.md",
+                "file": "常用求极限的 8 种方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "常用等价无穷小 的大纲"
+              "title": "常用求极限的 8 种方法 的大纲"
             }
           },
           {
@@ -202,7 +202,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "常用泰勒公式.md",
     "常用求极限的 8 种方法.md",
+    "洛必达法则.md",
     "常用等价无穷小.md",
     "常考题型与典型例题.md",
     "数学二.md",
@@ -227,9 +229,7 @@
     "AIO.base",
     "机器视觉精密测量-复习.md",
     "机电传动与PLC控制复习.md",
-    "机械制造工程学-复习.md",
     "git_contributions.json",
-    "1111.md",
     "contributions.json",
     "contributions_march_2026.txt",
     "assets/fig/极限存在准则eg6.png",
