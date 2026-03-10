@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "6cc94781c9a85a62",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "f9b956a4a97058e4",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "ca612e4315e43289",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
+                "file": "常用求极限的 8 种方法.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME"
+              "title": "常用求极限的 8 种方法"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md",
+                "file": "常用求极限的 8 种方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HOME 的大纲"
+              "title": "常用求极限的 8 种方法 的大纲"
             }
           },
           {
@@ -200,39 +200,43 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ca612e4315e43289",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "READMD.md",
-    "HOME.md",
+    "未命名.md",
     "常用求极限的 8 种方法.md",
-    "高等数学概览.md",
     "常考题型与典型例题.md",
     "数学二.md",
-    "无穷小量.md",
-    "无穷大量.md",
-    "函数图像.md",
+    "HOME.md",
+    "极限存在准则.md",
+    "极限.md",
+    "常用等价无穷小.md",
+    "高等数学概览.md",
+    "函数的性质.md",
     "函数概念及常见函数.md",
+    "函数图像.md",
+    "极限的概念.md",
+    "机械制造工程学-复习_AI answer.md",
+    "极限的性质.md",
+    "软件工具清单.md",
+    "闪念胶囊.md",
+    "无穷大量.md",
+    "READMD.md",
+    "无穷小量.md",
+    "AI Prompt.md",
+    "AGENTS.md",
+    "AIO.base",
     "机器视觉精密测量-复习.md",
     "机电传动与PLC控制复习.md",
     "机械制造工程学-复习.md",
     "git_contributions.json",
     "1111.md",
-    "闪念胶囊.md",
     "contributions.json",
     "contributions_march_2026.txt",
-    "homepage.md",
-    "函数的性质.md",
-    "极限存在准则.md",
-    "极限的性质.md",
-    "极限的概念.md",
-    "2026-03-07.md",
-    "Templates/考研学习笔记.md",
     "assets/fig/极限存在准则eg6.png",
     "assets/fig/极限存在准则eg8解2.png",
     "assets/fig/极限存在准则eg8解1.png",
     "assets/fig/极限存在准则eg7.png",
     "assets/fig/极限性质eg5解2.png",
-    "做题方法.md",
     "assets/fig/极限性质eg5解1.png",
     "assets/exports/极限的性质.pdf",
     "assets/fig/极限eg1.png",
@@ -240,10 +244,6 @@
     "assets/fig/极限eg3.png",
     "assets/fig/极限eg2.png",
     "bin.txt",
-    "AIO.base",
-    "AGENTS.md",
-    "极限.md",
-    "函数极限连续.md",
     "existing_repo",
     "assets/ps.ps1",
     "assets/words",
