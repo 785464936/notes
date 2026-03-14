@@ -10,7 +10,7 @@
     "isTypewriterScrollEnabled": true,
     "isOnlyMaintainTypewriterOffsetWhenReachedEnabled": false,
     "isTypewriterOnlyUseCommandsEnabled": false,
-    "typewriterOffset": 0.8
+    "typewriterOffset": 0.45
   },
   "keepLinesAboveAndBelow": {
     "isKeepLinesAboveAndBelowEnabled": false,
