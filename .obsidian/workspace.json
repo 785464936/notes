@@ -198,16 +198,19 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "assets/fig/函数零点问题解题思路-陈汉.jpg",
     "HOME.md",
+    "READMD.md",
+    "AIO.base",
+    "做题方法.md",
+    "assets/fig/函数零点问题解题思路-陈汉.jpg",
     "导数应用.md",
     "数学二.md",
-    "做题方法.md",
     "拉格朗日中值定理.md",
     "微分中值定理.md",
     "高等数学概览.md",
@@ -229,7 +232,6 @@
     "常用等价无穷小.md",
     "极限.md",
     "函数的性质.md",
-    "AIO.base",
     "git_contributions.json",
     "contributions.json",
     "contributions_march_2026.txt",
@@ -243,7 +245,6 @@
     "assets/fig/极限eg1.png",
     "assets/fig/极限eg4.png",
     "assets/fig/极限eg3.png",
-    "assets/fig/极限eg2.png",
     "bin.txt",
     "existing_repo",
     "assets/ps.ps1",
