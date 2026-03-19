@@ -39,6 +39,6 @@ config.yml
 
 cursor-positions.json
 
-.obsidian/workspace*.json
+workspace*.json
 
 .obsidian/plugins/remember-cursor-position/cursor-positions.json
