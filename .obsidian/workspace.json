@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "三种主要积分法.md",
+                "file": "做题方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "三种主要积分法"
+              "title": "做题方法"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "095758eb9d8a114d",
   "lastOpenFiles": [
-    "三种主要积分法.md",
     "数学二.md",
+    "三种主要积分法.md",
+    "极限的概念.md",
     "不定积分基本公式.md",
     "不定积分的概念与性质.md",
     "HOME.md",
@@ -256,7 +257,6 @@
     "函数图像.md",
     "机电传动与PLC控制复习.md",
     "机器视觉精密测量-复习.md",
-    "机械制造工程学-复习.md",
     "AIO.base",
     "assets/fig/函数零点问题解题思路-陈汉.jpg",
     "git_contributions.json",
