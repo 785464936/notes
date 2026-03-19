@@ -22,7 +22,7 @@ Thumbs.db
 software/
 node_modules/
 __pycache__/
-Excalidraw/
+# Excalidraw/
 # markmap/
 
 # 配置文件（但排除模板）
