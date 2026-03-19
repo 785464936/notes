@@ -143,7 +143,7 @@ for (let week of weeks) {
         } else {
             let lvl = day.level ?? 0;
             square.style.backgroundColor = colors[lvl];
-            square.title = `${day.date.toISOString().split('T')[0]}: ${day.count} contributions`;
+            square.title = `${day.date.toISOString().split('T')[0]}这一天提交了 ${day.count} 次 真是太卷啦`;
         }
 
         col.appendChild(square);
