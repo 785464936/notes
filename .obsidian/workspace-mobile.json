@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "定积分的概念性质及几何意义.md",
+                "file": "常用等价无穷小.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "定积分的概念性质及几何意义"
+              "title": "常用等价无穷小"
             }
           }
         ],
@@ -88,7 +88,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "凸",
+            "query": "无穷",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -139,7 +139,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "d981e6cb3238f4bc",
@@ -221,8 +221,8 @@
   },
   "active": "4f22557ca7d0ac8b",
   "lastOpenFiles": [
-    "数学二.md",
     "定积分的概念性质及几何意义.md",
+    "数学二.md",
     "定积分的性质.md",
     "定积分的计算.md",
     "改变积分上下限的方法.md",
