@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿.md",
+                "file": "做题方法.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "草稿"
+              "title": "做题方法"
             }
           }
         ],
@@ -235,10 +235,10 @@
   },
   "active": "ce5767eff606f513",
   "lastOpenFiles": [
-    "常用等价无穷小.md",
-    "草稿.md",
     "定积分的概念性质及几何意义.md",
     "数学二.md",
+    "草稿.md",
+    "常用等价无穷小.md",
     "定积分的性质.md",
     "定积分的计算.md",
     "改变积分上下限的方法.md",
