@@ -42,5 +42,3 @@ cursor-positions.json
 workspace*.json
 
 .obsidian/plugins/remember-cursor-position/cursor-positions.json
-
-*草稿*.md

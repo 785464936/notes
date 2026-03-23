@@ -52,15 +52,29 @@
               "type": "markdown",
               "state": {
                 "file": "常用等价无穷小.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "常用等价无穷小"
             }
+          },
+          {
+            "id": "ce5767eff606f513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草稿.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "草稿"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "无穷",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -139,7 +153,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "d981e6cb3238f4bc",
@@ -219,8 +233,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4f22557ca7d0ac8b",
+  "active": "ce5767eff606f513",
   "lastOpenFiles": [
+    "常用等价无穷小.md",
+    "草稿.md",
     "定积分的概念性质及几何意义.md",
     "数学二.md",
     "定积分的性质.md",
