@@ -31,16 +31,14 @@ config.yml
 !.env.example
 # *.json
 
-.gitignore
+# .gitignore
 # .obsidian/
 
 */*未命名.md
 */export/
 
-cursor-positions.json
+*cursor-positions.json
 
-workspace*.json
-
-.obsidian/plugins/remember-cursor-position/cursor-positions.json
+*workspaces*.json
 
 *草稿*.md
