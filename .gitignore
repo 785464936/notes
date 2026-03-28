@@ -14,8 +14,11 @@ Thumbs.db
 *.docx
 *.log
 
+# 模型文件
 *.stl
 *.sldprt
+
+# 媒体文件
 *.mp4
 
 # 项目特定忽略
@@ -23,22 +26,11 @@ software/
 node_modules/
 __pycache__/
 # Excalidraw/
-# markmap/
-
-# 配置文件（但排除模板）
-config.yml
-*.env
-!.env.example
-# *.json
-
-# .gitignore
-# .obsidian/
 
 */*未命名.md
 */export/
 
-*cursor-position*.json
-
-*workspace*.json
-
 *草稿*.md
+.obsidian/plugins/remember-cursor-position/cursor-positions.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
