@@ -37,7 +37,7 @@ config.yml
 */*未命名.md
 */export/
 
-*cursor-positions*.json
+*cursor-position*.json
 
 *workspace*.json
 

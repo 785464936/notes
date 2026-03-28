@@ -129,14 +129,6 @@
     "description": "选中文字后输入 · 包裹为行内代码"
   },
   {
-    "id": "builtin-sel-wrap-symbols",
-    "trigger": "【¥￥",
-    "replacement": "const m={'¥': ['$', '$'], '￥': ['$', '$'], '【': ['[', ']']}; \nreturn m[key][0] + '${0:${SEL}}' + m[key][1];",
-    "options": "sF",
-    "priority": 40,
-    "description": "选中文字后输入 【/¥/￥ 包裹为 []/$$"
-  },
-  {
     "id": "builtin-sel-wrap-quotes",
     "trigger": "“”‘’",
     "replacement": "const m={'“': ['“','”'], '”': ['“','”'], '‘': ['‘','’'], '’': ['‘','’']}; return m[key][0] + '${0:${SEL}}' + m[key][1];",
