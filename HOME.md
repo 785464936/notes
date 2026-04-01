@@ -79,28 +79,39 @@ const colors = ["#ebedf0","#9be9a8","#40c463","#30a14e","#216e39"];
 // 获取日期范围
 const today = new Date();
 const todayStr = today.toISOString().split('T')[0]; // YYYY-MM-DD
+
+// 计算365天前的日期，并向前补齐到周一，确保第一列完整
 const past365Days = new Date(today);
 past365Days.setDate(today.getDate() - 364); // 最近365天，包括今天
+const startDayOfWeek = past365Days.getDay(); // 0=周日
+const daysToMonday = (startDayOfWeek + 6) % 7; // 距离周一的天数
+const startDate = new Date(past365Days);
+startDate.setDate(past365Days.getDate() - daysToMonday); // 向前补齐到周一
 
-// 拉取贡献数据
-let contributions = [];
+// 拉取贡献数据并生成完整日期序列
+let contributionMap = {};
 try {
     const url = `https://github-contributions-api.jogruber.de/v4/${username}`;
     const resp = await (await fetch(url)).json();
-    contributions = resp.contributions
-        .map(d => ({...d, date: new Date(d.date)}))
-        .filter(d => d.date >= past365Days && d.date <= today) // 最近365天
-        .sort((a,b) => a.date - b.date);
+    contributionMap = {};
+    for (const d of resp.contributions) {
+        contributionMap[d.date] = d;
+    }
 } catch (err) {
     dv.paragraph("⚠️ 获取贡献数据失败，请检查用户名或网络。");
     console.error(err);
 }
 
-// 补齐开头，使第一天为周一
-const dayOfWeek = contributions[0].date.getDay(); // 0=周日
-let prependDays = (dayOfWeek + 6) % 7; // 距离周一的天数
-for (let i = 0; i < prependDays; i++) {
-    contributions.unshift({date: null, count: 0, level: 0});
+// 生成从 startDate 到 today 的完整日期序列
+let contributions = [];
+for (let d = new Date(startDate); d <= today; d.setDate(d.getDate() + 1)) {
+    const dateStr = d.toISOString().split('T')[0];
+    const data = contributionMap[dateStr];
+    contributions.push({
+        date: new Date(d),
+        count: data ? data.count : 0,
+        level: data ? data.level : 0
+    });
 }
 
 // 按周分组，每列 7 天
