@@ -27,10 +27,14 @@ node_modules/
 __pycache__/
 # Excalidraw/
 
-*/*未命名.md
+*未命名*
 */export/
 
-*草稿*.md
+*草稿*
 .obsidian/plugins/remember-cursor-position/cursor-positions.json
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# AI agent tools
+.agents/
+skills-lock.json
