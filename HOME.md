@@ -76,6 +76,19 @@ const username = "785464936"; // 替换为你的 GitHub 用户名
 // 颜色等级映射（0-4）
 const colors = ["#ebedf0","#9be9a8","#40c463","#30a14e","#216e39"];
 
+// 根据提交次数返回俏皮的 hover 提示
+function getPlayfulMessage(count) {
+    if (count === 0) return "🐟 今天摸鱼了~";
+    if (count === 1) return "🌱 种下了一颗种子";
+    if (count === 2) return "✨ 小试牛刀";
+    if (count <= 4) return "💪 渐入佳境";
+    if (count <= 6) return "🔥 火力全开";
+    if (count <= 10) return "🚀 卷王降临";
+    if (count <= 15) return "⚡ 肝帝附体";
+    if (count <= 20) return "🤯 这不是人";
+    return "👑 传说中的代码之神";
+}
+
 // 获取日期范围
 const today = new Date();
 const todayStr = today.toISOString().split('T')[0]; // YYYY-MM-DD
@@ -152,9 +165,10 @@ for (let week of weeks) {
         if (day.date === null) {
             square.style.backgroundColor = "transparent";
         } else {
-            let lvl = day.level ?? 0;
+            const dateStr = day.date.toISOString().split('T')[0];
+            const lvl = day.level ?? 0;
+            square.title = `${dateStr} - ${getPlayfulMessage(day.count)} (${day.count} commits)`;
             square.style.backgroundColor = colors[lvl];
-            square.title = `${day.date.toISOString().split('T')[0]}这一天提交了 ${day.count} 次 真是太卷啦`;
         }
 
         col.appendChild(square);
