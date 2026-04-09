@@ -7,7 +7,7 @@
   "enabledCssSnippets": [
     "contribution-graph"
   ],
-  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font,JetBrainsMonoNL Nerd Font Mono",
   "interfaceFontFamily": "",
-  "textFontFamily": "JetBrainsMono Nerd Font,0xProto Nerd Font"
+  "textFontFamily": "JetBrainsMonoNL Nerd Font,0xProto Nerd Font"
 }
