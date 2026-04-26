@@ -24,7 +24,7 @@
   "fullWidthMedia": true,
   "bordersToggle": false,
   "minimalStatus": true,
-  "focusMode": true,
+  "focusMode": false,
   "underlineInternal": false,
   "underlineExternal": true,
   "folding": true,
