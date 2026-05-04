@@ -6,6 +6,7 @@ views:
     filters:
       and:
         - '!file.ext.containsAny("pdf", "doc", "png", "jpg", "webp")'
+        - progect.contains("线代")
     order:
       - file.name
       - file.ctime
@@ -13,9 +14,9 @@ views:
       - file.links
       - file.tags
     sort:
-      - property: file.ctime
-        direction: DESC
       - property: file.tags
+        direction: ASC
+      - property: file.ctime
         direction: DESC
   - type: table
     name: 附件
