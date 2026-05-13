@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "trigger": "＃",
+    "replacement": "#",
+    "priority": 100,
+    "enabled": true,
+    "id": "user-1778659187669-bz69"
+  },
+  {
+    "trigger": "－",
+    "replacement": "-",
+    "priority": 100,
+    "enabled": true,
+    "id": "user-1778659320963-sq0c"
+  }
+]
