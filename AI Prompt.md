@@ -20,26 +20,28 @@ diff in '{my input word}' and  other words with similar meaning
 
 ":{synonyms that I know(one or two, separated by '/'}" this part is optional.
 
-§output:
+§task details:
 
 your answer should include: 
 
 - all words i send
 - other potential synonyms
+	- synonyms should be strictly restricted in follow range and priority: 考研词汇>六级/四级词汇>其他简单词汇
+	- Other less commonly used vocabulary shall not be taken into account.
 
 additional requirements:
 
 - if ther is no optional part, just list all meanings and answer the way i asked to you before
-- Amount of given words and potential synonyms should be no more than 5. The 5 words should have closest meaning. (5 as maximum, can also be 4/3/2, depending on the semantic similarity of the words,as close as possible)
+- Amount of given words and potential synonyms should be no more than 5 with closest meaning. (5 as maximum, can also be 4/3/2, depending on the semantic similarity of the words,as close as possible)
 
-§output format: 
+§output: 
 
 **strictly follow my example, no any other words allowed.**
 
 - expressions in official dictionarys like collins or cambridge
 - chinese brief(only key difference)
 
-output example:
+example:
 
 ### fragile a.
 - easily broken or damaged
