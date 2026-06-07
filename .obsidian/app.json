@@ -28,7 +28,11 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar",
-    "editor:insert-mathblock"
+    "editor:insert-mathblock",
+    "editor:insert-codeblock",
+    "editor:insert-callout",
+    "editor:cycle-list-checklist",
+    "editor:toggle-inline-math"
   ],
   "promptDelete": false,
   "newFileLocation": "current",
