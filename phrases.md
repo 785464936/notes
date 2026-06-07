@@ -27,3 +27,7 @@ family: phrases
 adj. 混合年龄的
 
 n. 年龄混合
+
+## nuclear-family
+
+n. 核心家庭（指由父母及其未婚子女组成的家庭）
