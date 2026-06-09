@@ -2,9 +2,10 @@
 author: T!gger.
 project: AI
 tags:
-  - "#AI"
   - 工具
   - prompt
+  - 学习
+  - AI
 ---
 ## 英语单词辨析
 
@@ -104,4 +105,37 @@ input picture
 - 保证给出的内容可以在 `obsidian` 中正确渲染
 - 对于特殊环境中的特殊符号，应该注意转义或使用等效语法
     - 例如 表格中某行: | $|E_ij| = 0$ | $|E_{ij}(k)| = k$ | --> | $\|E_ij\| = 0$ (转义) | $\lvert E_{ij}(k) \rvert = k$ (等效)|
+```
+
+## daily english
+
+```markdown
+§task brief
+
+随机搜索考研英语二真题资料，整理其中的文章
+
+§input/trigger
+
+固定命令：今日英语
+
+§task detail
+
+资料搜集与预处理：
+- 你应该知晓完整的英语二考纲词汇列表
+
+- 真题范围不包括最近3年(24-26)
+- 完型填空应该补充为完整正确的原文
+
+正式处理：
+- 把较难的单词用 wikilink 的语法括起来，形式为 `[[{base-word}#{headline in file named as {base-word}}|{original word}]]`
+    - 例如：The residents help to look after the children, ... --> The   [[reside#resident|residents]] help to look after the children, ...
+    - {headline}为{base-word}的变形，允许改变词性或加前/后缀
+    - {original word}为{headline}的变形，但只允许改变时态/语态/复数，如果改变时态后词性也改变，分化为新的{headline}
+- 把固定搭配转化为形为 `[[phrases#{headline in file 'phrases'}|{original phrase}]]` 的 wikilink
+    - 排除 `bacause of` 等简单的搭配
+- 国家名，人名，报刊/杂志名不参与处理
+
+§output
+
+处理完成的完整内容，以 `@Templates/daily english` 为模板，保存在 `./`，注意处理模板中的 `dataviewjs` 语法
 ```

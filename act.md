@@ -33,6 +33,10 @@ adj. 可起诉的，可操作的
 
 adj. 活跃的，积极参与的，经常
 
+### activity
+
+n. 活动
+
 ### hyperactive
 
 adj. 多动
