@@ -55,3 +55,11 @@ adj.民主选举产生的
 ## call for
 
 呼吁
+
+## make a nice profit
+
+赚得可观的利润；收益颇丰
+
+## take sth. to the next level
+
+把某事提升到新高度；更进一步；升级加码（口语高频）
