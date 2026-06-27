@@ -6,6 +6,7 @@
     "created": "date",
     "..": "text",
     "schedule": "number",
-    "week": "number"
+    "week": "number",
+    "author": "multitext"
   }
 }
