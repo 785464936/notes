@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="生物打印流程" id="PQpWUFpP5_QY9C-h3-Y_">
+    <mxGraphModel dx="923" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=none;" value="医学影像采集&lt;br&gt;CT / MRI / 三维扫描" vertex="1">
+          <mxGeometry height="60" width="130" x="20" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" value="三维模型重建" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" value="组织结构设计&lt;br&gt;CAD建模" vertex="1">
+          <mxGeometry height="60" width="130" x="330" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" value="切片处理&lt;br&gt;生成打印路径" vertex="1">
+          <mxGeometry height="60" width="130" x="490" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" value="配置生物墨水&lt;br&gt;细胞+水凝胶+生长因子" vertex="1">
+          <mxGeometry height="60" width="150" x="650" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" value="生物打印" vertex="1">
+          <mxGeometry height="60" width="120" x="665" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" value="交联固化&lt;br&gt;光交联/离子交联/热交联" vertex="1">
+          <mxGeometry height="60" width="140" x="485" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" value="生物反应器培养" vertex="1">
+          <mxGeometry height="60" width="130" x="330" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" value="组织成熟" vertex="1">
+          <mxGeometry height="60" width="110" x="185" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" value="性能检测与应用" vertex="1">
+          <mxGeometry height="60" width="120" x="25" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--77" edge="1" parent="1" source="-pGJzqyGvL7Ehs8g7ID--67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="-pGJzqyGvL7Ehs8g7ID--68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--78" edge="1" parent="1" source="-pGJzqyGvL7Ehs8g7ID--68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="-pGJzqyGvL7Ehs8g7ID--69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--79" edge="1" parent="1" source="-pGJzqyGvL7Ehs8g7ID--69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="-pGJzqyGvL7Ehs8g7ID--70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--80" edge="1" parent="1" source="-pGJzqyGvL7Ehs8g7ID--70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="-pGJzqyGvL7Ehs8g7ID--71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--81" edge="1" parent="1" source="-pGJzqyGvL7Ehs8g7ID--72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="-pGJzqyGvL7Ehs8g7ID--73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--82" edge="1" parent="1" source="-pGJzqyGvL7Ehs8g7ID--73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="-pGJzqyGvL7Ehs8g7ID--74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--83" edge="1" parent="1" source="-pGJzqyGvL7Ehs8g7ID--74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="-pGJzqyGvL7Ehs8g7ID--75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--84" edge="1" parent="1" source="-pGJzqyGvL7Ehs8g7ID--75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="-pGJzqyGvL7Ehs8g7ID--76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGJzqyGvL7Ehs8g7ID--85" edge="1" parent="1" source="-pGJzqyGvL7Ehs8g7ID--71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="-pGJzqyGvL7Ehs8g7ID--72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="220" />
+              <mxPoint x="725" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
