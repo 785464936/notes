@@ -9,7 +9,8 @@
   "obsidian-minimal-settings",
   "obsidian-hider",
   "easy-typing-obsidian",
-  "obsidian-desmos",
   "obsidian-excalidraw-plugin",
-  "marp-slides"
+  "marp-slides",
+  "mousewheel-image-zoom",
+  "drawio-editor"
 ]
