@@ -1,7 +1,6 @@
 [
   "obsidian-latex-suite",
   "dataview",
-  "typewriter-mode",
   "obsidian-pandoc",
   "remember-cursor-position",
   "obsidian-zotero-desktop-connector",
@@ -11,6 +10,7 @@
   "easy-typing-obsidian",
   "obsidian-excalidraw-plugin",
   "marp-slides",
-  "mousewheel-image-zoom",
-  "drawio-editor"
+  "obsidian-spaced-repetition",
+  "homepage",
+  "obsidian-desmos"
 ]
