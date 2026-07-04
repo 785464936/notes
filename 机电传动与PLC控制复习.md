@@ -1,6 +1,8 @@
 ---
+project: "[[复习]]"
 tags:
   - 复习
+isArchived: true
 ---
 
 ### 转动惯量折算 
