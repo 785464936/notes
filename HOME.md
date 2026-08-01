@@ -132,9 +132,9 @@ function renderVaultStats(container) {
 
 function renderRecentEdits() {
     dv.header(2, "最近编辑");
-    const tenDaysAgo = dv.date("today") - dv.duration(`${CONFIG.recentEditDays} days`);
+    const nDaysAgo = dv.date("today") - dv.duration(`${CONFIG.recentEditDays} days`);
     const recentFiles = dv.pages()
-        .where(p => p.file.mtime >= tenDaysAgo && !CONFIG.excludeFiles.includes(p.file.name))
+        .where(p => p.file.mtime >= nDaysAgo && !CONFIG.excludeFiles.includes(p.file.name))
         .sort(p => p.file.mtime, "desc")
         .limit(10);
     
