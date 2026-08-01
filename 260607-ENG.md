@@ -1,6 +1,6 @@
 ---
 author: T!gger.
-project: 学英语
+project: "[[英语]]"
 created: 2026-06-07
 tags:
   - 学习
