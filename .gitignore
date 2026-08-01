@@ -21,6 +21,13 @@ Thumbs.db
 # 媒体文件
 *.mp4
 
+# 压缩包
+*.rar
+*.7z
+*.zip
+*.gar.gz
+*.xz
+
 # 项目特定忽略
 software/
 node_modules/
