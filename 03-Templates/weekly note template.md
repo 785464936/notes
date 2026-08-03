@@ -1,10 +1,10 @@
 ---
-week: "[[{{date:gggg}}-W{{date:ww}}]]"
-created: <% tp.date.now("YYYY-MM-DD") %>
-tags:
-  - weekly
 cssclasses:
   - table-no-header
+created: <% tp.date.now("YYYY-MM-DD") %>
+tags:
+  - Journal/weekly
+week: "[[{{date:gggg}}-W{{date:ww}}]]"
 ---
 
 ## Glance
@@ -17,7 +17,7 @@ cssclasses:
 
 ```tasks
 not done
-happens in {{date:gggg}}-W{{date:ww}}
+happens in or before {{date:gggg}}-W{{date:ww}}
 ```
 
 ## DONE 
@@ -25,5 +25,5 @@ happens in {{date:gggg}}-W{{date:ww}}
 ```tasks
 done
 happens in {{date:gggg}}-W{{date:ww}}
-sort by done
+sort by done reverse
 ```

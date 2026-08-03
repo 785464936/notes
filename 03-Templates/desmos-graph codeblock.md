@@ -2,6 +2,7 @@
 tags:
   - desmos-graph
 ---
+
 ```desmos-graph
 bottom = -1; top = 2;
 left = -3; right = 4;
