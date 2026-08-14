@@ -26,4 +26,5 @@ happens in or before {{date:gggg}}-W{{date:ww}}
 done
 happens in {{date:gggg}}-W{{date:ww}}
 sort by done reverse
+hide scheduled date
 ```
