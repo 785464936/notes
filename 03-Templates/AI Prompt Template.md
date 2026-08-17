@@ -26,3 +26,10 @@ status: stable
 
 
 ```
+<%*
+setTimeout(() => {
+    app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) => {
+        frontmatter["type"] = "Note";
+    });
+}, 100);
+%>

@@ -22,3 +22,10 @@ happens in {{date:gggg}}-W{{date:ww}}
 sort by done reverse
 hide scheduled date
 ```
+<%*
+setTimeout(() => {
+    app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) => {
+        frontmatter["type"] = "Dashboard";
+    });
+}, 100);
+%>

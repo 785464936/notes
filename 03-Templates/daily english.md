@@ -9,5 +9,10 @@ tags:
   - daily-english
 status: stable
 ---
-
-# <% tp.date.now("YYMMDD") %>-ENG
+<%*
+setTimeout(() => {
+    app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) => {
+        frontmatter["type"] = "Note";
+    });
+}, 100);
+%>

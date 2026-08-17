@@ -18,4 +18,10 @@ not done
 
 ### New
 
-- [ ] 
+- [ ] <%*
+setTimeout(() => {
+    app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) => {
+        frontmatter["type"] = "Journal";
+    });
+}, 100);
+%>
