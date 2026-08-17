@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - table-no-header
 type: Template
 tags:
   - Journal/daily
