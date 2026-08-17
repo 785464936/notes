@@ -1,8 +1,8 @@
 ---
+created: <% tp.date.now("YYYY-MM-DD") %>
 type: Template
 tags:
   - Journal/weekly
-created: <% tp.date.now("YYYY-MM-DD") %>
 week: "[[{{date:gggg}}-W{{date:ww}}]]"
 status: stable
 ---

@@ -1,12 +1,12 @@
 ---
+author: T!gger.
+created: 2026-06-07
 project: "[[考研]]"
 type: Note
 tags:
   - 学习
   - 英语
   - english-phrases
-author: T!gger.
-created: 2026-06-07
 status: stable
 ---
 # phrases

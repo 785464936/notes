@@ -1,12 +1,12 @@
 ---
+author:
+  - T!gger.
+created: 2026-08-16
 project: "[[考研]]"
 type: Note
 tags:
   - 学习
   - 考研
-author:
-  - T!gger.
-created: 2026-08-16
 ..: "[[概率]]"
 status: stable
 ---

@@ -1,4 +1,7 @@
 ---
+author:
+  - T!gger.
+created: 2026-07-11
 project: "[[考研]]"
 type: Note
 tags:
@@ -6,9 +9,6 @@ tags:
   - 考研
   - 英语
   - english-words
-author:
-  - T!gger.
-created: 2026-07-11
 status: stable
 ---
 # A

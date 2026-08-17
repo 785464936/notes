@@ -3,8 +3,8 @@ project: "[[复习]]"
 type: Course
 tags:
   - 复习
-isArchived: true
 status: stable
+isArchived: true
 ---
 
 ### 转动惯量折算 

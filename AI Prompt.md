@@ -1,4 +1,5 @@
 ---
+author: T!gger.
 project: "[[AI]]"
 type: Note
 tags:
@@ -6,7 +7,6 @@ tags:
   - prompt
   - 学习
   - AI
-author: T!gger.
 status: stable
 ---
 ## 英语单词辨析

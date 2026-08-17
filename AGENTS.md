@@ -88,24 +88,24 @@ While this repository primarily contains notes rather than code, these guideline
 ### Frontmatter Key Order (OKF v0.2)
 All note frontmatter keys follow this fixed order; skip lines for keys not present:
 
-1. `cssclasses`        - CSS classes
-2. `excalidraw-plugin` - Excalidraw diagrams only
+1. `excalidraw-plugin` - Excalidraw diagrams only
+2. `cssclasses`        - CSS classes
 3. `source_url`        - Source URL
-4. `project`           - Goal axis
-5. `type`              - Form axis: MOC/Note/Exam/Journal/Dashboard/Template/Diagram/Course/Flashcard/Config
-6. `tags`              - Subject axis
-7. `author`            - Author
-8. `created`           - Creation date
-9. `havefig`           - Has figure (boolean)
-10. `isArchived`       - Archived flag (boolean)
-11. `week`             - Belonging week (journal)
-12. `year`             - Exam year
-13. `..`               - Parent note (breadcrumb)
-14. `status`           - Lifecycle (stable/...)
+4. `author`            - Author
+5. `created`           - Creation date
+6. `project`           - Goal axis
+7. `type`              - Form axis: MOC/Note/Exam/Journal/Dashboard/Template/Diagram/Course/Flashcard/Config
+8. `tags`              - Subject axis
+9. `week`              - Belonging week (journal)
+10. `year`             - Exam year
+11. `..`               - Parent note (breadcrumb)
+12. `status`           - Lifecycle: draft | stable | deprecated (缺省=stable)
+13. `stale_after`      - 有效期 (YYYY-MM-DD)；today >= stale_after 视为过期
+14. `isArchived`       - Archived flag (boolean)
 
 Rules:
 - Skip any key not present; keep order fixed.
-- `date` is deprecated; use `created` instead (e.g. `软件工具清单.md`).
+- `status` 三值语义：draft=未审阅/可能不完整；stable=默认/可消费；deprecated=保留链接与历史/不再有效。缺省视为 stable。
 - **OKF exemption**: files tagged `okf-exempt` are excluded from OKF compliance checks and the root `index.md`. This file (AGENTS.md) is itself exempt.
 
 ## Plugin Considerations

@@ -1,16 +1,16 @@
 ---
+author:
+  - T!gger.
+  - Big Pickle
+created: 2026-07-01
 project: "[[复习]]"
 type: Flashcard
 tags:
   - 复习
   - flashcards
   - isArchived
-author:
-  - T!gger.
-  - Big Pickle
-created: 2026-07-01
-isArchived: true
 status: stable
+isArchived: true
 ---
 
 ## 第1章：增材制造产品设计概述

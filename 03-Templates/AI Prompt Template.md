@@ -1,11 +1,11 @@
 ---
+author: T!gger.
 project: "[[AI]]"
 type: Template
 tags:
   - AI
   - 工具
   - prompt
-author: T!gger.
 status: stable
 ---
 
