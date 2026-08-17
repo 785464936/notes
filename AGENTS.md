@@ -1,3 +1,10 @@
+---
+type: Config
+tags:
+  - okf-exempt
+status: stable
+---
+
 # AGENTS.md - Repository Guidelines for Notes Repository
 
 ## Repository Overview
@@ -5,17 +12,15 @@ This is a personal notes repository organized using Obsidian.md. It contains aca
 
 ## File Structure
 - **Root directory**: Contains main note files (.md) organized by subject/topic
-- **`.obsidian/`**: Obsidian vault configuration directory
-  - `app.json`: Obsidian app settings
-  - `appearance.json`: Theme and appearance settings  
-  - `plugins/`: Installed Obsidian plugins
-  - `workspace.json`: Workspace layout configuration
-- **`assets/`**: Contains supporting files (images, documents, etc.)
-  - `docs/`: Documentation assets
-  - `exports/`: Exported files
+- **`01-Projects/`**: Project index notes (考研, 复习, 英语, AI)
+- **`02-Journal/`**: Daily and weekly journal entries
+- **`03-Templates/`**: Note templates for consistent formatting
+- **`.opencode/`**: opencode agent configuration
+  - `skills/update-index-log/`: index.md/log.md maintenance skill
+- **`assets/`**: Supporting files (images, documents, etc.)
   - `fig/`: Figures and diagrams
+  - `IloveEnglish/`: English learning assets
 - **`Excalidraw/`**: Excalidraw diagram files
-- **`Templates/`**: Note templates for consistent formatting
 
 ## Build/Lint/Test Commands
 **Note**: This repository does not contain executable code, so there are no traditional build, lint, or test commands.
@@ -80,6 +85,29 @@ While this repository primarily contains notes rather than code, these guideline
 - **Backlinks**: Utilize Obsidian's backlinking feature for related content
 - **Tags**: Use hierarchical tagging system (`#course/subject/topic`)
 
+### Frontmatter Key Order (OKF v0.2)
+All note frontmatter keys follow this fixed order; skip lines for keys not present:
+
+1. `cssclasses`        - CSS classes
+2. `excalidraw-plugin` - Excalidraw diagrams only
+3. `source_url`        - Source URL
+4. `project`           - Goal axis
+5. `type`              - Form axis: MOC/Note/Exam/Journal/Dashboard/Template/Diagram/Course/Flashcard/Config
+6. `tags`              - Subject axis
+7. `author`            - Author
+8. `created`           - Creation date
+9. `havefig`           - Has figure (boolean)
+10. `isArchived`       - Archived flag (boolean)
+11. `week`             - Belonging week (journal)
+12. `year`             - Exam year
+13. `..`               - Parent note (breadcrumb)
+14. `status`           - Lifecycle (stable/...)
+
+Rules:
+- Skip any key not present; keep order fixed.
+- `date` is deprecated; use `created` instead (e.g. `软件工具清单.md`).
+- **OKF exemption**: files tagged `okf-exempt` are excluded from OKF compliance checks and the root `index.md`. This file (AGENTS.md) is itself exempt.
+
 ## Plugin Considerations
 The repository uses several Obsidian plugins:
 - **Dataview**: For dynamic content generation
@@ -135,8 +163,7 @@ When adding content that interacts with these plugins, ensure compatibility and 
 6. Test rendering in Obsidian preview
 
 ## Cursor/Copilot Rules
-- **No Cursor rules found** in `.cursor/rules/`
-- **No Copilot instructions found** in `.github/copilot-instructions.md`
-- Default to general Markdown and academic note-taking best practices
+- No Cursor rules (`.cursor/`) and no Copilot instructions (`.github/`) exist in this repository.
+- Default to general Markdown and academic note-taking best practices.
 
 This repository serves as a personal knowledge base and learning resource. All modifications should enhance clarity, accuracy, and organization while maintaining the existing structure and conventions.

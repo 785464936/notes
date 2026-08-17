@@ -1,12 +1,15 @@
 ---
-author:
-  - T!gger.
 project: "[[考研]]"
-created: 2026-07-11
+type: Note
 tags:
   - 学习
   - 考研
+  - 英语
   - english-words
+author:
+  - T!gger.
+created: 2026-07-11
+status: stable
 ---
 # A
 

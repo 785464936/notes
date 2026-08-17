@@ -1,3 +1,8 @@
+---
+type: Dashboard
+status: stable
+---
+
 ```dataviewjs
 // ==========================================
 // 1. 配置中心

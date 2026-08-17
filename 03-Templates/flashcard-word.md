@@ -1,11 +1,13 @@
 ---
-author: T!gger.
-project: "[[英语]]"
-created: <% tp.date.now("YYYY-MM-DD") %>
+project: "[[考研]]"
+type: Template
 tags:
   - 学习
+  - 英语
   - english-word
-family: <% tp.file.title %>
+author: T!gger.
+created: <% tp.date.now("YYYY-MM-DD") %>
+status: stable
 ---
 
 ## <% tp.file.title %>

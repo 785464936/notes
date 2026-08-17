@@ -1,10 +1,12 @@
 ---
 cssclasses:
   - table-no-header
-created: <% tp.date.now("YYYY-MM-DD") %>
+type: Template
 tags:
   - Journal/daily
+created: <% tp.date.now("YYYY-MM-DD") %>
 week: "[[{{date:gggg}}-W{{date:ww}}]]"
+status: stable
 ---
 
 ## TODO

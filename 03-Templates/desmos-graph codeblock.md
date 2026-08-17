@@ -1,6 +1,8 @@
 ---
+type: Template
 tags:
   - desmos-graph
+status: stable
 ---
 
 ```desmos-graph

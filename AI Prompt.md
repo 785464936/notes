@@ -1,11 +1,13 @@
 ---
-author: T!gger.
-project: AI
+project: "[[AI]]"
+type: Note
 tags:
   - 工具
   - prompt
   - 学习
   - AI
+author: T!gger.
+status: stable
 ---
 ## 英语单词辨析
 
