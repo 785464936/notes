@@ -6,16 +6,9 @@ type: Template
 tags:
   - 学习
   - 英语
-  - flashcards
 status: stable
 ---
 <%*
-setTimeout(() => {
-    app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) => {
-        frontmatter["type"] = "Flashcard";
-    });
-}, 200);
-
 const NL = "\n";
 
 async function readText(path) {
@@ -99,7 +92,7 @@ async function build(src, out, note, fm) {
 const wfm = [
   "---",
   "author: T!gger.",
-  "created: 2026-08-19",
+  "created: 2026-08-14",
   'project: "[[考研]]"',
   "type: Flashcard",
   "tags:",
@@ -109,12 +102,14 @@ const wfm = [
   "  - flashcards/words",
   "status: stable",
   "---",
+  "> version: "+ tp.date.now("YYYY-MM-DD HH:mm:ss"),
+  "",
 ].join(NL);
 
 const pfm = [
   "---",
   "author: T!gger.",
-  "created: 2026-08-19",
+  "created: 2026-08-14",
   'project: "[[考研]]"',
   "type: Flashcard",
   "tags:",
@@ -123,6 +118,8 @@ const pfm = [
   "  - flashcards/phrases",
   "status: stable",
   "---",
+  "> version: "+ tp.date.now("YYYY-MM-DD HH:mm:ss"),
+  "",
 ].join(NL);
 
 try {
@@ -132,4 +129,9 @@ try {
 } catch (err) {
   new Notice("sync failed: " + (err && err.message ? err.message : err));
 }
+setTimeout(() => {
+    app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) => {
+        frontmatter["type"] = "Flashcard";
+    });
+}, 100);
 %>
