@@ -9,9 +9,72 @@ tags:
   - 考研
   - 英语
   - english-words
+  - flashcards/words
 status: stable
 ---
 # A
+
+## abolish
+
+v. 废除，废止（法律、制度等）；取消
+
+## address
+
+n. 地址，住址；演讲，演说
+
+v. 处理，应付；称呼
+
+## adolescent
+
+n. 青少年
+
+adj. 青春期的，孩子气的
+
+## aeronautics
+
+n. 航空学
+
+## adequate
+
+adj. 足够的；合格的
+
+### inadequacy
+
+n. 不足，欠缺
+
+## agony
+
+n. （精神或肉体的）极度痛苦
+
+## apply
+
+v. 申请；应用，运用；适用
+
+### applicable
+
+adj. 适用的，合适的
+
+## appoint
+
+v. 任命，委任；指派；约定（时间、地点）
+
+## arrogant
+
+adj. 傲慢的，自大的
+
+### arrogance
+
+n. 傲慢，自大
+
+## auction
+
+n. 拍卖
+
+v. 拍卖出售
+
+### auctioneer
+
+n. 拍卖师
 
 ## abrupt
 
@@ -134,23 +197,152 @@ v. 安排，整理，改编
 ### arrangement
 
 n. 安排，约定，布置，改编
+
 ### rearrange
 
 v. 重新排列，重新安排
+
 ### prearranged
 
 adj. 预定的
-### disarrange
-
-v. 弄乱
-
-### arranger
-
-n. 编曲（的人），安排者
 
 # B
 
+## bankrupt
+
+adj. 破产的
+
+n. 破产者
+
+v. 使破产
+
+### bankruptcy
+
+n. 破产
+
+## beverage
+
+n. 饮料（正式）
+
+## bewilder
+
+v. 使迷惑，使糊涂
+
+### bewilderingly
+
+adv. 令人困惑地
+
+## bias
+
+n. 偏见；偏心，偏袒
+
+v. 使怀有偏见
+
+### biased
+
+adj. 有偏见的，偏向的
+
+## bid
+
+n. 出价；投标，竞标
+
+v. 出价
+
 # C
+
+## character
+
+n. 性格，个性；特征，特点；人物，角色
+
+### characteristic
+
+n. 特征，特点
+
+## circulate
+
+v. （使）循环；（使）流通；（使）散布
+
+### circulation
+
+n. 流通，循环；传播
+
+## comment
+
+n. 评论，意见
+
+v. 发表评论
+
+## competent
+
+adj. 有能力的，能干的；称职的
+
+## composite
+
+adj. 合成的，复合的
+
+n. 合成物，混合物，复合材料
+
+## conform
+
+v. 顺从，遵从；遵守，符合（conform to）
+
+## conscience
+
+n. 良心，良知
+
+## constitution
+
+n. 宪法；构成，结构；体质
+
+### unconstitutional
+
+adj. 违宪的
+
+## contemporary
+
+adj. 当代的，现代的；同时代的
+
+n. 同时代的人
+
+## controversy
+
+n. 争议，争论，争辩
+
+## conversation
+
+n. 交谈，谈话，对话
+
+### conversational
+
+adj. 会话的，谈话的；口语的
+
+## coordinate
+
+v. 协调，使相配合
+
+n. 坐标
+
+## cruise
+
+n. 乘船游览，游轮航行
+
+v. 巡航
+
+### cruising
+
+n./adj. 巡航（的）
+
+## crystal
+
+n. 水晶；结晶；晶体
+
+### crystallize
+
+v. 结晶；明确，具体化
+
+## cultivate
+
+v. 耕作，耕种；培养，培育
 
 ## capital
 
@@ -284,6 +476,14 @@ n. 犯罪行为
 
 V. 区分，歧视
 
+#### discrimination
+
+n. 歧视
+
+##### antidiscrimination
+
+n./adj. 反歧视（的）
+
 ### incriminating
 
 adj. 指证
@@ -305,6 +505,44 @@ v. 指控
 n. 犯罪学
 
 # D
+
+## decay
+
+v. 腐蚀；（使）衰败，衰弱；腐烂
+
+## deal
+
+n. 协议，交易
+
+v. 处理，应付（deal with）
+
+### dealer
+
+n. 商人，交易商
+
+## defend
+
+v. 保护，防卫；为…辩护
+
+### defendant
+
+n. 被告
+
+## designate
+
+v. 指定，选定；委派
+
+## disinfect
+
+v. 给…杀菌，为…消毒
+
+## domestic
+
+adj. 国内的，本国的；家庭的，家用的
+
+## downturn
+
+n. 衰退，低迷
 
 ## deficit
 
@@ -338,6 +576,56 @@ v. 民主化
 n.普及者
 
 # E
+
+## ego
+
+n. 自尊心；自我
+
+## eligible
+
+adj. 有资格的，具备条件的；合格的
+
+## elite
+
+n. 精英；上层集团
+
+adj. 精英的
+
+## equity
+
+n. 公平，公正；（公司的）股本
+
+### inequity
+
+n. 不公平，不公正
+
+## erupt
+
+v. 爆发，喷发；突然发生
+
+## evade
+
+v. 逃脱，躲开；回避，逃避
+
+## excess
+
+n. 过量，过度
+
+adj. 过多的，额外的
+
+### excessive
+
+adj. 过度的，过分的
+
+## exempt
+
+v. 免除，豁免
+
+adj. 被免除的，被豁免的
+
+## exert
+
+v. 运用，行使；施加（影响等）
 
 ## enhance
 
@@ -395,6 +683,26 @@ adj.令人疲惫的
 
 # F
 
+## federal
+
+adj. 联邦政府的；联邦（制）的
+
+## feasible
+
+adj. 可行的，行得通的
+
+## fluctuate
+
+v. （尤指持续地）波动，起伏不定
+
+### fluctuant
+
+adj. 波动的，起伏的
+
+### fluctuation
+
+n. 波动，起伏
+
 ## forage
 
 v. 觅食；搜寻；四处寻找
@@ -421,9 +729,53 @@ adj. 可采食的；可觅食的
 
 # G
 
+## govern
+
+v. 统治，管理，治理；支配，影响
+
+## greed
+
+n. 贪婪，贪心
+
 # H
 
+## habit
+
+n. 习惯；坏习惯
+
+### habitual
+
+adj. 习惯的，惯常的
+
+## hospital
+
+n. 医院
+
+### hospitalization
+
+n. 住院治疗
+
 # I
+
+## impart
+
+v. 传授，告知；赋予，给予
+
+## indifferent
+
+adj. 不关心的，冷淡的；无所谓的
+
+## intimate
+
+adj. 亲密的；私人的
+
+## invert
+
+v. 使倒置，使颠倒
+
+### inverted
+
+adj. 倒转的，反向的
 
 ## infant
 
@@ -473,9 +825,29 @@ adv. 强烈地，专注地，深沉地
 
 # J
 
+## jury
+
+n. 陪审团；评审委员会
+
+### juror
+
+n. 陪审员
+
 # K
 
 # L
+
+## landmark
+
+n. 地标，标志性建筑；里程碑
+
+## literate
+
+adj. 识字的，会读写的
+
+### illiterate
+
+adj. 不识字的，文盲的
 
 ## limit
 
@@ -508,6 +880,22 @@ adj. 无限的
 v. 划定
 
 # M
+
+## magnificent
+
+adj. 极好的；壮丽的
+
+## misery
+
+n. 痛苦，悲惨
+
+### miserable
+
+adj. 痛苦的，悲惨的
+
+## momentum
+
+n. 动量，冲量；势头，推动力
 
 ## mater
 
@@ -569,6 +957,18 @@ n.母职
 
 # N
 
+## nasal
+
+adj. 鼻的；有鼻音的
+
+## natural
+
+adj. 天然的；自然的；天生的
+
+### naturalistic
+
+adj. 自然主义的，写实的
+
 ## narrate
 
 v.讲述，解说
@@ -611,6 +1011,22 @@ n.保姆
 
 # O
 
+## orient
+
+v. 确定方向；使适应
+
+### oriented
+
+adj. 以…为导向的
+
+## overheat
+
+v. （使）过热
+
+### overheated
+
+adj. 过热的
+
 ## observe
 
 v. 看到，观察，说，遵守，庆祝
@@ -640,6 +1056,70 @@ adj. 可观察的
 adj. 善于观察，虔诚
 
 # P
+
+## pearl
+
+n. 珍珠
+
+### pearly
+
+adj. 珍珠般的，珍珠白的
+
+## perceive
+
+v. 认为，看待，视为；察觉，意识到
+
+### perception
+
+n. 认知，感知；看法
+
+## perfect
+
+adj. 完美的，完满的；完全的
+
+v. 使完美，改善
+
+## perform
+
+v. 做，进行，施行；演出，表演
+
+## portion
+
+n. 一部分，一份
+
+## prevail
+
+v. 占优势，占上风；流行，盛行
+
+### prevalent
+
+adj. 流行的，普遍的
+
+## primary
+
+adj. 首要的，主要的；初级的；最初的
+
+### primarily
+
+adv. 主要地，首要地
+
+## prompt
+
+v. 引起，导致；促使
+
+adj. 迅速的，及时的
+
+## propel
+
+v. 推进，推动
+
+## purify
+
+v. 净化，提纯
+
+### purifier
+
+n. 净化器，清洁剂
 
 ## play
 
@@ -886,7 +1366,75 @@ n. 学生，瞳孔
 
 # Q
 
+## qualify
+
+v. （使）具有资格，（使）合格
+
+### qualification
+
+n. 资格，资历
+
 # R
+
+## race
+
+n. 赛跑，比赛；竞争；人种，种族
+
+v. 参加比赛
+
+### racial
+
+adj. 种族的
+
+## reckon
+
+v. 想，认为；估计；计算
+
+## reform
+
+v. 改革，改进，改造
+
+n. 改革，改良
+
+## regular
+
+adj. 频繁的，经常的；有规律的；正规的
+
+### regularly
+
+adv. 定期地，有规律地
+
+## relay
+
+v. 传达，转发；转播
+
+n. 接力赛；中继设备
+
+## remain
+
+v. 保持，仍然是；剩余，留下
+
+## represent
+
+v. 代表，代理；表示，象征
+
+### representative
+
+adj. 有代表性的
+
+n. 代表
+
+#### unrepresentative
+
+adj. 无代表性的
+
+## ritual
+
+n. 仪式，典礼；例行公事，老规矩
+
+## ruthless
+
+adj. 无情的，冷酷的，残忍的
 
 ## reside
 
@@ -903,6 +1451,104 @@ adj. 居住的
 n. 住所，居住，居留许可
 
 # S
+
+## scrub
+
+v. 擦洗，刷洗
+
+n. 灌木丛
+
+## severe
+
+adj. 严重的，剧烈的；严厉的
+
+### severity
+
+n. 严重性，严重程度
+
+## shrewd
+
+adj. 精明的，明智的
+
+## slump
+
+v. 猛跌，突然下降
+
+n. 暴跌；萧条（期）
+
+## spray
+
+n. 喷雾，喷剂
+
+v. 喷洒
+
+## spouse
+
+n. 配偶
+
+## stem
+
+n. 干，茎，梗
+
+v. 阻止，遏制；起源于（stem from）
+
+## stereotype
+
+n. 刻板印象，成见
+
+v. 对…有成见
+
+### stereotypical
+
+adj. 刻板的，模式化的
+
+## substantial
+
+adj. 大量的，可观的；重大的；牢固的
+
+### substantially
+
+adv. 在很大程度上；大体上
+
+## substantiate
+
+v. 证明…属实，证实
+
+### unsubstantiated
+
+adj. 未经证实的
+
+## suburb
+
+n. 郊区，近郊住宅区
+
+### suburban
+
+adj. 郊区的
+
+## subtle
+
+adj. 微妙的；隐约的，不易察觉的
+
+## surpass
+
+v. 超过，优于，胜过
+
+## sustain
+
+v. 保持，维持，使持续；支撑
+
+### sustainable
+
+adj. 可持续的
+
+#### sustainability
+
+n. 可持续性
+
+## swine
+
+n. 猪
 
 ## scheme
 
@@ -974,11 +1620,67 @@ adj. 不足的
 
 # T
 
+## tactic
+
+n. 策略，手法；战术
+
+## tangible
+
+adj. 可触摸的，有形的；真实的
+
+## throughout
+
+prep. 遍及，自始至终
+
+adv. 在各处；自始至终
+
+## trumpet
+
+n. 小号，喇叭
+
+v. 宣扬，鼓吹
+
+## turbulent
+
+adj. 动荡的，混乱的；湍急的
+
+### turbulence
+
+n. 湍流；动荡
+
 # U
+
+## usher
+
+v. 引导，引领
+
+n. 引座员
 
 # V
 
+## vaccine
+
+n. 疫苗
+
+### vaccinate
+
+v. 给…接种疫苗
+
+## verdict
+
+n. 裁决，判决；意见，决定
+
+## viable
+
+adj. 可行的，可望成功的
+
 # W
+
+## wake
+
+v. 醒来；叫醒
+
+n. （航行的船只等留下的）尾流，航迹
 
 ## vise
 
