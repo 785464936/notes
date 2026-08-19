@@ -6,7 +6,6 @@ tags:
 week: "[[{{date:gggg}}-W{{date:ww}}]]"
 status: stable
 ---
-
 ## TODO
 
 ```tasks

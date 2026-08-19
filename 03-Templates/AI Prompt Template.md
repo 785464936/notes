@@ -8,7 +8,6 @@ tags:
   - prompt
 status: stable
 ---
-
 ```markdown
 §task brief
 

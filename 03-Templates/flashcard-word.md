@@ -9,7 +9,6 @@ tags:
   - english-word
 status: stable
 ---
-
 ## <% tp.file.title %>
 <%*
 setTimeout(() => {

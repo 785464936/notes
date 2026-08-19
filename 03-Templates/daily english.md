@@ -8,8 +8,7 @@ tags:
   - 英语
   - daily-english
 status: stable
----
-<%*
+---<%*
 setTimeout(() => {
     app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) => {
         frontmatter["type"] = "Note";
