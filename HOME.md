@@ -91,7 +91,7 @@ const injectStyles = () => {
 // ==========================================
 async function renderYearView(container) {
     const todayStr = DateUtils.getTodayStr();
-    const startDate = DateUtils.getMonday(new Date(Date.now() - 364 * 86400000));
+    const startDate = DateUtils.getMonday(new Date(Date.now() - 343 * 86400000));
 
     let apiData = {};
     try {
