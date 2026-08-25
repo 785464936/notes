@@ -158,3 +158,45 @@ v. 好转；渡过难关（sb./sth. turns the corner）
 ## warding off
 
 v. 避开；阻止；挡住（sb. wards sth. off）
+
+## Bermuda triangle
+
+n. 百慕大三角（区）；（喻）困境、危险地带
+
+（a "Bermuda triangle" of sth. …等问题的困境）
+
+## cut off
+
+v. 切断，中断；使隔绝，使孤立（sth. cuts sb./sth. off / sb./sth. is cut off）
+
+## going off to
+
+v. 前往，动身去（某处）（sb. goes off to somewhere，如 go off to college 去上大学）
+
+## in combination with
+
+prep. 与…相结合，连同（A in combination with B）
+
+## in respect of
+
+prep. 关于，就…而言（正式）（in respect of sth.）
+
+## mechanical revolution
+
+n. 机械革命，工业技术革命（the mechanical revolution）
+
+## quasi-automatic
+
+adj. 准自动的，半自动的（quasi-automatic sanctions 准自动制裁）
+
+## up front
+
+adv. 提前，预先（pay sth. up front / information is available up front）
+
+## white paper
+
+n. 白皮书（政府就政策发布的正式报告）
+
+## write off
+
+v. 认定…无望/失败；注销，勾销（sb. writes sb./sth. off）

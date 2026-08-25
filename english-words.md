@@ -18,6 +18,10 @@ status: stable
 
 v. 废除，废止（法律、制度等）；取消
 
+## acute
+
+adj. （疾病）急性的；（问题、形势）严重的，剧烈的
+
 ## address
 
 n. 地址，住址；演讲，演说
@@ -34,7 +38,13 @@ adj. 青春期的，孩子气的
 
 n. 航空学
 
+## aesthetic
+
+adj. 美学的，审美的；n. 审美观
+
 ## adequate
+
+### adequate
 
 adj. 足够的；合格的
 
@@ -42,11 +52,21 @@ adj. 足够的；合格的
 
 n. 不足，欠缺
 
+## afloat
+
+adj./adv. （经济上）能维持下去的，应付自如的；漂浮的
+
 ## agony
 
 n. （精神或肉体的）极度痛苦
 
+## airy
+
+adj. 通风的，空气流通的；轻盈的，空灵的
+
 ## apply
+
+### apply
 
 v. 申请；应用，运用；适用
 
@@ -60,6 +80,8 @@ v. 任命，委任；指派；约定（时间、地点）
 
 ## arrogant
 
+### arrogant
+
 adj. 傲慢的，自大的
 
 ### arrogance
@@ -67,6 +89,8 @@ adj. 傲慢的，自大的
 n. 傲慢，自大
 
 ## auction
+
+### auction
 
 n. 拍卖
 
@@ -77,6 +101,8 @@ v. 拍卖出售
 n. 拍卖师
 
 ## abrupt
+
+### abrupt
 
 adj.突然的，唐突的
 
@@ -89,6 +115,8 @@ adv. 突然地，唐突地
 n. 突然性，唐突
 
 ## act
+
+### act
 
 v. 行动，表现，表演，假装，起作用，生效
 
@@ -192,6 +220,8 @@ n. 人类学
 
 ## arrange
 
+### arrange
+
 v. 安排，整理，改编
 
 ### arrangement
@@ -210,6 +240,8 @@ adj. 预定的
 
 ## bankrupt
 
+### bankrupt
+
 adj. 破产的
 
 n. 破产者
@@ -220,11 +252,17 @@ v. 使破产
 
 n. 破产
 
+## benign
+
+adj. 良性的，无害的；温和的，和善的
+
 ## beverage
 
 n. 饮料（正式）
 
 ## bewilder
+
+### bewilder
 
 v. 使迷惑，使糊涂
 
@@ -233,6 +271,8 @@ v. 使迷惑，使糊涂
 adv. 令人困惑地
 
 ## bias
+
+### bias
 
 n. 偏见；偏心，偏袒
 
@@ -248,9 +288,47 @@ n. 出价；投标，竞标
 
 v. 出价
 
+## billboard
+
+n. 广告牌，告示牌
+
+## binge
+
+n. 放纵，狂欢（尤指暴饮暴食、狂饮）
+
+v. 放纵，沉溺
+
+## blunt
+
+v. 削弱，使迟钝
+
+adj. 钝的；直率的，直言不讳的
+
+## bonus
+
+n. 奖金，红利；额外的好处
+
+## bureau
+
+n. 局，处，署；（政府）机构；办事处
+
 # C
 
+## campaigner
+
+n. （社会或政治运动的）参与者，活动家
+
+## celebrity
+
+n. 名人，名流；名声
+
+## centrepiece
+
+n. 最重要（最突出）的部分，核心；中心装饰品
+
 ## character
+
+### character
 
 n. 性格，个性；特征，特点；人物，角色
 
@@ -258,7 +336,17 @@ n. 性格，个性；特征，特点；人物，角色
 
 n. 特征，特点
 
+## cheerleader
+
+n. 啦啦队队员；（喻）积极支持者，鼓吹者
+
+## chronic
+
+adj. 慢性的，长期的；（问题）严重的，顽固的
+
 ## circulate
+
+### circulate
 
 v. （使）循环；（使）流通；（使）散布
 
@@ -271,6 +359,20 @@ n. 流通，循环；传播
 n. 评论，意见
 
 v. 发表评论
+
+## commission
+
+v. 委托（做某事），委任
+
+n. 委员会；佣金
+
+## compensation
+
+n. 补偿（物），赔偿金
+
+## competitiveness
+
+n. 竞争力，竞争性
 
 ## competent
 
@@ -292,6 +394,8 @@ n. 良心，良知
 
 ## constitution
 
+### constitution
+
 n. 宪法；构成，结构；体质
 
 ### unconstitutional
@@ -304,11 +408,21 @@ adj. 当代的，现代的；同时代的
 
 n. 同时代的人
 
+## continent
+
+n. 大陆，洲
+
+## converge
+
+v. 汇聚，聚集；趋同，趋于一致
+
 ## controversy
 
 n. 争议，争论，争辩
 
 ## conversation
+
+### conversation
 
 n. 交谈，谈话，对话
 
@@ -322,7 +436,13 @@ v. 协调，使相配合
 
 n. 坐标
 
+## co-ordination
+
+n. 协调，配合；协作
+
 ## cruise
+
+### cruise
 
 n. 乘船游览，游轮航行
 
@@ -333,6 +453,8 @@ v. 巡航
 n./adj. 巡航（的）
 
 ## crystal
+
+### crystal
 
 n. 水晶；结晶；晶体
 
@@ -345,6 +467,8 @@ v. 结晶；明确，具体化
 v. 耕作，耕种；培养，培育
 
 ## capital
+
+### capital
 
 n. 首都，大写字母，资本，启动资金，资本家，重要资源，柱头
 
@@ -365,6 +489,8 @@ n. 资本主义支持者，资本家
 v. 大写，利用，投资
 
 ## care
+
+### care
 
 n. 照顾，照料，小心，忧虑
 
@@ -404,6 +530,8 @@ n. 照护，护理工作
 
 ## consequence
 
+### consequence
+
 n.后果，重要性，后果游戏
 
 ### consequent
@@ -424,6 +552,8 @@ n.后果
 
 ## content
 
+### content
+
 n. 内容物，目录，内容，含量，满足感
 a. 满足的，愿意的
 v. 满足于，使满足
@@ -433,6 +563,8 @@ v. 满足于，使满足
 a. 满足
 
 ## contrast
+
+### contrast
 
 n. 对比，反差，明暗对比，对比度
 
@@ -448,13 +580,45 @@ adj. 对比的
 
 ## corperate
 
+### corperate
+
 adj. 公司的，法人实体的，共同的
 
 ### corporation
 
 n. 大公司，法人团体，市政当局
 
+## correlation
+
+n. 相关性，相互关系
+
+## council
+
+n. 委员会，理事会；地方议会
+
+## courageous
+
+adj. 勇敢的，无畏的
+
+## credit
+
+n. 信用，信誉；（信用）额度；学分
+
+v. 记入贷方；相信
+
+## curb
+
+v. 遏制，抑制
+
+n. 路缘
+
+## currency
+
+n. 货币，通货；流行，通用
+
 ## crime
+
+### crime
 
 n. 违法行为，犯罪，严重错误
 
@@ -512,6 +676,8 @@ v. 腐蚀；（使）衰败，衰弱；腐烂
 
 ## deal
 
+### deal
+
 n. 协议，交易
 
 v. 处理，应付（deal with）
@@ -520,7 +686,13 @@ v. 处理，应付（deal with）
 
 n. 商人，交易商
 
+## debt
+
+n. 债务，欠款；人情债
+
 ## defend
+
+### defend
 
 v. 保护，防卫；为…辩护
 
@@ -532,13 +704,33 @@ n. 被告
 
 v. 指定，选定；委派
 
+## desirable
+
+adj. 理想的，可取的，值得拥有的
+
 ## disinfect
 
 v. 给…杀菌，为…消毒
 
+## diabetes
+
+n. 糖尿病
+
+## disintegration
+
+n. 解体，瓦解；崩溃
+
+## distinctive
+
+adj. 独特的，与众不同的，有特色的
+
 ## domestic
 
 adj. 国内的，本国的；家庭的，家用的
+
+## dominant
+
+adj. 占支配地位的，主导的；显著的
 
 ## downturn
 
@@ -548,6 +740,8 @@ n. 衰退，低迷
 
 n. 赤字，不足
 ## democracy
+
+### democracy
 
 n.民主制度，民主国家，民主原则
 
@@ -575,11 +769,23 @@ v. 民主化
 
 n.普及者
 
+## derive
+
+v. 得到，获得；源于，来自（derive from）
+
 # E
+
+## efficient
+
+adj. 高效的，效率高的
 
 ## ego
 
 n. 自尊心；自我
+
+## elegance
+
+n. 优雅，雅致；高雅
 
 ## eligible
 
@@ -593,21 +799,35 @@ adj. 精英的
 
 ## equity
 
+### equity
+
 n. 公平，公正；（公司的）股本
 
 ### inequity
 
 n. 不公平，不公正
 
+## equivalent
+
+adj. 等同的，等值的
+
+n. 等同物，等价物
+
 ## erupt
 
 v. 爆发，喷发；突然发生
+
+## Eurobond
+
+n. 欧洲债券（在欧洲市场发行的以他国货币计价的债券）
 
 ## evade
 
 v. 逃脱，躲开；回避，逃避
 
 ## excess
+
+### excess
 
 n. 过量，过度
 
@@ -629,6 +849,8 @@ v. 运用，行使；施加（影响等）
 
 ## enhance
 
+### enhance
+
 v. 提高
 
 ### enhanced
@@ -641,6 +863,8 @@ n. 增强
 
 ## entrepreneur
 
+### entrepreneur
+
 n. 企业家
 
 ### entrepreneurial
@@ -648,6 +872,8 @@ n. 企业家
 adj. 创业的
 
 ## evolve
+
+### evolve
 
 n. 进化
 
@@ -660,6 +886,8 @@ n. 进化，演变
 a. 进化的，演变的
 
 ## exhaust
+
+### exhaust
 
 n.废气，排气管
 
@@ -683,6 +911,10 @@ adj.令人疲惫的
 
 # F
 
+## faith
+
+n. 信任，信心；信仰
+
 ## federal
 
 adj. 联邦政府的；联邦（制）的
@@ -691,7 +923,19 @@ adj. 联邦政府的；联邦（制）的
 
 adj. 可行的，行得通的
 
+## firm
+
+n. 公司，商行
+
+adj. 坚定的；牢固的
+
+## fiscal
+
+adj. 财政的，国库的
+
 ## fluctuate
+
+### fluctuate
 
 v. （尤指持续地）波动，起伏不定
 
@@ -704,6 +948,8 @@ adj. 波动的，起伏的
 n. 波动，起伏
 
 ## forage
+
+### forage
 
 v. 觅食；搜寻；四处寻找
 
@@ -727,6 +973,10 @@ adj. 觅食的
 
 adj. 可采食的；可觅食的
 
+## forthright
+
+adj. 直率的，直截了当的
+
 # G
 
 ## govern
@@ -741,13 +991,37 @@ n. 贪婪，贪心
 
 ## habit
 
+### habit
+
 n. 习惯；坏习惯
 
 ### habitual
 
 adj. 习惯的，惯常的
 
+## halt
+
+v. 停止，中止；使停下来
+
+n. 停止
+
+## harmonize
+
+### harmonize
+
+v. 使协调，使一致；与…相协调（sth. harmonizes with sth.）
+
+### harmonization
+
+n. 协调一致，统一
+
+## homegrown
+
+adj. 本国（本地）产的；本土的，土生土长的
+
 ## hospital
+
+### hospital
 
 n. 医院
 
@@ -761,15 +1035,33 @@ n. 住院治疗
 
 v. 传授，告知；赋予，给予
 
+## incentive
+
+n. 激励，刺激；诱因
+
+## inconceivable
+
+adj. 不可思议的，难以想象的
+
 ## indifferent
 
 adj. 不关心的，冷淡的；无所谓的
+
+## inducement
+
+n. 诱惑，诱因；诱饵
+
+## inevitable
+
+adj. 不可避免的，必然发生的
 
 ## intimate
 
 adj. 亲密的；私人的
 
 ## invert
+
+### invert
 
 v. 使倒置，使颠倒
 
@@ -779,13 +1071,25 @@ adj. 倒转的，反向的
 
 ## infant
 
+### infant
+
 n. pl. 婴儿
 
 ### infantile
 
 a. 幼稚，婴儿般
 
+## inhabit
+
+v. 居住于，栖居于
+
+## insist
+
+v. 坚持，坚持认为；坚决要求（insist on / insist that）
+
 ## instruct
+
+### instruct
 
 v. 指示，教导，告知，聘请
 
@@ -805,6 +1109,8 @@ adj. 有教育意义的
 
 ## intense
 
+### intense
+
 adj. 强烈的，紧张的，热情的
 
 ### intensity
@@ -823,9 +1129,19 @@ v. 加强
 
 adv. 强烈地，专注地，深沉地
 
+## interference
+
+n. 干涉，干预；干扰
+
+## intervene
+
+v. 干预，介入；调停
+
 # J
 
 ## jury
+
+### jury
 
 n. 陪审团；评审委员会
 
@@ -837,11 +1153,33 @@ n. 陪审员
 
 # L
 
+## labour
+
+n. 劳动；（总称）劳工，劳动力
+
+v. 劳动
+
+## laminate
+
+v. 把…压制成薄片；用薄片覆盖；层压
+
 ## landmark
 
 n. 地标，标志性建筑；里程碑
 
+## liberal
+
+### liberal
+
+adj. 自由主义的；开放的，宽容的；慷慨的
+
+### liberalism
+
+n. 自由主义
+
 ## literate
+
+### literate
 
 adj. 识字的，会读写的
 
@@ -850,6 +1188,8 @@ adj. 识字的，会读写的
 adj. 不识字的，文盲的
 
 ## limit
+
+### limit
 
 n. 限额，极限，边界
 
@@ -879,13 +1219,31 @@ adj. 无限的
 
 v. 划定
 
+## lure
+
+v. 引诱，诱惑
+
+n. 诱饵，诱惑力
+
 # M
 
 ## magnificent
 
 adj. 极好的；壮丽的
 
+## mask
+
+v. 掩饰，掩盖
+
+n. 面具，口罩
+
+## ministerial
+
+adj. 部长的，内阁的
+
 ## misery
+
+### misery
 
 n. 痛苦，悲惨
 
@@ -893,11 +1251,25 @@ n. 痛苦，悲惨
 
 adj. 痛苦的，悲惨的
 
+## mispredict
+
+v. 错误地预测
+
+## modest
+
+adj. 谦逊的；适度的，朴素的；不大的
+
+## monetary
+
+adj. 货币的，金融的
+
 ## momentum
 
 n. 动量，冲量；势头，推动力
 
 ## mater
+
+### mater
 
 n. 母亲
 
@@ -914,6 +1286,8 @@ adv.母亲般地，母系地
 n.母性
 
 ## mother
+
+### mother
 
 n.母亲，女修道院院长
 
@@ -955,6 +1329,12 @@ n.舍监
 
 n.母职
 
+## murmur
+
+v. 低声说，咕哝
+
+n. 低语声，咕哝声
+
 # N
 
 ## nasal
@@ -963,6 +1343,8 @@ adj. 鼻的；有鼻音的
 
 ## natural
 
+### natural
+
 adj. 天然的；自然的；天生的
 
 ### naturalistic
@@ -970,6 +1352,8 @@ adj. 天然的；自然的；天生的
 adj. 自然主义的，写实的
 
 ## narrate
+
+### narrate
 
 v.讲述，解说
 
@@ -987,7 +1371,17 @@ n. 叙述者
 
 n. 叙述，旁白
 
+## nerve
+
+n. 神经；勇气，胆量
+
+## newsroom
+
+n. 新闻编辑室
+
 ## nurse
+
+### nurse
 
 n. 护士，保姆
 
@@ -1011,7 +1405,17 @@ n.保姆
 
 # O
 
+## obey
+
+v. 服从，遵守，听从
+
+## obesity
+
+n. 肥胖，肥胖症
+
 ## orient
+
+### orient
 
 v. 确定方向；使适应
 
@@ -1019,7 +1423,13 @@ v. 确定方向；使适应
 
 adj. 以…为导向的
 
+## overboard
+
+adv. 向舷外，落水
+
 ## overheat
+
+### overheat
 
 v. （使）过热
 
@@ -1028,6 +1438,8 @@ v. （使）过热
 adj. 过热的
 
 ## observe
+
+### observe
 
 v. 看到，观察，说，遵守，庆祝
 
@@ -1057,7 +1469,13 @@ adj. 善于观察，虔诚
 
 # P
 
+## payout
+
+n. 大笔付款，支出
+
 ## pearl
+
+### pearl
 
 n. 珍珠
 
@@ -1066,6 +1484,8 @@ n. 珍珠
 adj. 珍珠般的，珍珠白的
 
 ## perceive
+
+### perceive
 
 v. 认为，看待，视为；察觉，意识到
 
@@ -1087,7 +1507,13 @@ v. 做，进行，施行；演出，表演
 
 n. 一部分，一份
 
+## presentation
+
+n. 呈现，外观；演示，报告
+
 ## prevail
+
+### prevail
 
 v. 占优势，占上风；流行，盛行
 
@@ -1096,6 +1522,8 @@ v. 占优势，占上风；流行，盛行
 adj. 流行的，普遍的
 
 ## primary
+
+### primary
 
 adj. 首要的，主要的；初级的；最初的
 
@@ -1113,7 +1541,17 @@ adj. 迅速的，及时的
 
 v. 推进，推动
 
+## proportion
+
+n. 比例；部分，份额；均衡
+
+## prosperity
+
+n. 繁荣，兴旺
+
 ## purify
+
+### purify
 
 v. 净化，提纯
 
@@ -1122,6 +1560,8 @@ v. 净化，提纯
 n. 净化器，清洁剂
 
 ## play
+
+### play
 
 v.玩乐，扮演，参加游戏，参赛，...
 ### player
@@ -1179,6 +1619,8 @@ n.游戏小组
 n.戏剧观众
 
 ## predator
+
+### predator
 
 n. 捕食者，掠夺者
 
@@ -1334,6 +1776,8 @@ n. 记者
 
 ## prior
 
+### prior
+
 adj. 先前的，优先的，在...之前
 
 n. 小修道院院长，大修道院副院长
@@ -1368,6 +1812,8 @@ n. 学生，瞳孔
 
 ## qualify
 
+### qualify
+
 v. （使）具有资格，（使）合格
 
 ### qualification
@@ -1378,6 +1824,8 @@ n. 资格，资历
 
 ## race
 
+### race
+
 n. 赛跑，比赛；竞争；人种，种族
 
 v. 参加比赛
@@ -1385,6 +1833,16 @@ v. 参加比赛
 ### racial
 
 adj. 种族的
+
+## radical
+
+adj. 激进的，极端的；根本的，彻底的
+
+n. 激进分子
+
+## recession
+
+n. 经济衰退，不景气
 
 ## reckon
 
@@ -1397,6 +1855,8 @@ v. 改革，改进，改造
 n. 改革，改良
 
 ## regular
+
+### regular
 
 adj. 频繁的，经常的；有规律的；正规的
 
@@ -1416,6 +1876,8 @@ v. 保持，仍然是；剩余，留下
 
 ## represent
 
+### represent
+
 v. 代表，代理；表示，象征
 
 ### representative
@@ -1428,6 +1890,10 @@ n. 代表
 
 adj. 无代表性的
 
+## rigour
+
+n. 严格，严谨；严酷
+
 ## ritual
 
 n. 仪式，典礼；例行公事，老规矩
@@ -1437,6 +1903,8 @@ n. 仪式，典礼；例行公事，老规矩
 adj. 无情的，冷酷的，残忍的
 
 ## reside
+
+### reside
 
 v. 居住
 
@@ -1450,7 +1918,29 @@ adj. 居住的
 
 n. 住所，居住，居留许可
 
+## restraint
+
+n. 克制，节制；限制，约束
+
+## revenue
+
+n. 收入，收益；（政府的）税收
+
+## reviewer
+
+n. 评论家，评论员；审稿人
+
 # S
+
+## sanction
+
+n. 制裁，惩罚；批准，认可
+
+v. 制裁；批准
+
+## savagely
+
+adv. 残忍地，野蛮地；猛烈地
 
 ## scrub
 
@@ -1458,7 +1948,13 @@ v. 擦洗，刷洗
 
 n. 灌木丛
 
+## self-sufficiency
+
+n. 自给自足
+
 ## severe
+
+### severe
 
 adj. 严重的，剧烈的；严厉的
 
@@ -1466,15 +1962,29 @@ adj. 严重的，剧烈的；严厉的
 
 n. 严重性，严重程度
 
+## shrug
+
+v. 耸肩（表示不在乎、不知道等）
+
+n. 耸肩
+
 ## shrewd
 
 adj. 精明的，明智的
+
+## signature
+
+n. 签名；标志性特征
 
 ## slump
 
 v. 猛跌，突然下降
 
 n. 暴跌；萧条（期）
+
+## sophisticated
+
+adj. 复杂精密的；老练的，见多识广的
 
 ## spray
 
@@ -1486,6 +1996,12 @@ v. 喷洒
 
 n. 配偶
 
+## spiral
+
+v. 螺旋式上升/下降，急剧上升/下降
+
+n. 螺旋
+
 ## stem
 
 n. 干，茎，梗
@@ -1493,6 +2009,8 @@ n. 干，茎，梗
 v. 阻止，遏制；起源于（stem from）
 
 ## stereotype
+
+### stereotype
 
 n. 刻板印象，成见
 
@@ -1502,7 +2020,17 @@ v. 对…有成见
 
 adj. 刻板的，模式化的
 
+## stimulus
+
+n. 刺激（物），促进因素
+
+## stylish
+
+adj. 时髦的，雅致的，漂亮的
+
 ## substantial
+
+### substantial
 
 adj. 大量的，可观的；重大的；牢固的
 
@@ -1512,13 +2040,21 @@ adv. 在很大程度上；大体上
 
 ## substantiate
 
+### substantiate
+
 v. 证明…属实，证实
 
 ### unsubstantiated
 
 adj. 未经证实的
 
+## subsequent
+
+adj. 随后的，后来的
+
 ## suburb
+
+### suburb
 
 n. 郊区，近郊住宅区
 
@@ -1530,11 +2066,17 @@ adj. 郊区的
 
 adj. 微妙的；隐约的，不易察觉的
 
+## suggestive
+
+adj. 暗示的，使人联想的
+
 ## surpass
 
 v. 超过，优于，胜过
 
 ## sustain
+
+### sustain
 
 v. 保持，维持，使持续；支撑
 
@@ -1551,6 +2093,8 @@ n. 可持续性
 n. 猪
 
 ## scheme
+
+### scheme
 
 n. 计划，阴谋，图案，廉租房区
 
@@ -1569,6 +2113,8 @@ a. 心机
 n. 阴谋家
 
 ## shift
+
+### shift
 
 n.轮班，当班人员，转变，Shift 键，直筒连衣裙，衬裙
 
@@ -1594,6 +2140,8 @@ n. 悬带，吊索，[[english-phrases#baby-wearing|婴儿背带]]，投石器
 
 ## stark
 
+### stark
+
 adj. 严酷且不可避免的，非常清晰明显的，朴素无装饰的，完全
 
 adv. 完全赤裸的
@@ -1603,6 +2151,8 @@ adv. 完全赤裸的
 adv. 明显地，鲜明地，朴素地
 
 ## suffice
+
+### suffice
 
 v. 足够
 
@@ -1617,6 +2167,14 @@ adv. 足够地
 ### insufficient
 
 adj. 不足的
+
+## suspension
+
+n. 暂停，中止；悬挂（系统）
+
+## symbolize
+
+v. 象征，代表
 
 # T
 
@@ -1642,6 +2200,8 @@ v. 宣扬，鼓吹
 
 ## turbulent
 
+### turbulent
+
 adj. 动荡的，混乱的；湍急的
 
 ### turbulence
@@ -1649,6 +2209,20 @@ adj. 动荡的，混乱的；湍急的
 n. 湍流；动荡
 
 # U
+
+## uncompetitive
+
+adj. 缺乏竞争力的
+
+## unremarked
+
+adj. 未被注意的，不受关注的
+
+## urge
+
+v. 敦促，力劝，催促
+
+n. 强烈的欲望，冲动
 
 ## usher
 
@@ -1659,6 +2233,8 @@ n. 引座员
 # V
 
 ## vaccine
+
+### vaccine
 
 n. 疫苗
 
@@ -1682,7 +2258,19 @@ v. 醒来；叫醒
 
 n. （航行的船只等留下的）尾流，航迹
 
+## weigh
+
+v. 称重；权衡，斟酌
+
+（weigh in（on sth.）参与…的讨论，发表意见）
+
+## whirlwind
+
+n. 旋风；（喻）急剧的变化，混乱
+
 ## vise
+
+### vise
 
 n. 台钳
 
@@ -1713,6 +2301,10 @@ v. 电视播放
 ## wellbeing
 
 n. 健康幸福，福祉，安康
+
+## wrongdoing
+
+n. 不法行为，坏事
 
 # Y
 
