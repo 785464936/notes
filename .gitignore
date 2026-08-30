@@ -42,6 +42,8 @@ __pycache__/
 .obsidian/plugins/remember-cursor-position/cursor-positions.json
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+english-phrases-flashcards.md
+english-words-flashcards.md
 
 # AI agent tools
 .agents/
