@@ -1,0 +1,45 @@
+/* ===== 完形填空表 use_of_english ===== */
+/* 兼容：表格自带 class  / 容器带 class（frontmatter cssclasses） */
+table.use_of_english,
+.markdown-rendered.use_of_english table,
+.markdown-preview-view.use_of_english table {
+  border: none !important;
+  border-collapse: collapse;
+  width: auto !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+/* 无头表格：隐藏空表头行 */
+table.use_of_english thead,
+.markdown-rendered.use_of_english thead,
+.markdown-preview-view.use_of_english thead {
+  display: none;
+}
+
+table.use_of_english th,
+table.use_of_english td,
+.markdown-rendered.use_of_english th,
+.markdown-rendered.use_of_english td,
+.markdown-preview-view.use_of_english th,
+.markdown-preview-view.use_of_english td {
+  border: none !important;
+  background: transparent;
+  padding: 2px 6px;
+  vertical-align: middle;
+}
+
+/* 题号列：固定列宽、右对齐、不换行 */
+table.use_of_english th:first-child,
+table.use_of_english td:first-child,
+.markdown-rendered.use_of_english th:first-child,
+.markdown-rendered.use_of_english td:first-child,
+.markdown-preview-view.use_of_english th:first-child,
+.markdown-preview-view.use_of_english td:first-child {
+  width: 70px;
+  min-width: 70px;
+  max-width: 70px;
+  text-align: right;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}

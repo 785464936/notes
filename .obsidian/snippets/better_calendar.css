@@ -1,0 +1,34 @@
+/* obsidian-calendar-plugin */
+/* https://github.com/liamcain/obsidian-calendar-plugin */
+
+#calendar-container {
+  --color-background-heading: transparent;
+  --color-background-day: transparent;
+  --color-background-weeknum: transparent;
+  --color-background-weekend: transparent;
+
+  --color-dot: var(--text-muted);
+  --color-arrow: var(--text-muted);
+  --color-button: var(--text-muted);
+
+  --color-text-title: var(--text-normal);
+  --color-text-heading: var(--text-muted);
+  --color-text-day: var(--text-normal);
+  --color-text-today: var(--interactive-accent);
+  --color-text-weeknum: var(--text-muted);
+}
+
+/* 针对 Minimal v9.0.2 + Calendar v1.5.10 的精准单字修改 */
+.view-content .calendar th {
+    font-size: 0 !important; /* 隐藏原本的“周一”等文字 */
+}
+
+/* 通过伪元素读取 data-day 属性（即“一”、“二”、“日”）并单独渲染 */
+.view-content .calendar th::after {
+    content: attr(data-day); 
+    font-size: 0.75rem !important; /* 恢复单字的正常大小，可根据喜好微调 */
+    font-weight: 600; /* 加粗表头 */
+    color: var(--text-muted); /* 保持 Minimal 主题默认的表头颜色 */
+    display: block;
+    text-align: center;
+}

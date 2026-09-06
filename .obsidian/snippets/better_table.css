@@ -1,0 +1,26 @@
+/* 强制表格行在编辑模式下按单元格边界（|处）折行 */
+.cm-s-obsidian .HyperMD-table-row {
+    flex-wrap: wrap !important;  /* 核心：允许单元格整体换行 */
+    align-items: baseline;
+    min-width: 100%;
+}
+
+/* 保证单元格内部的长单词也能断开，避免撑破布局 */
+.cm-s-obsidian .HyperMD-table-row .cm-table {
+    white-space: pre-wrap !important;
+    word-break: break-word;
+}
+
+/* Obsidian CSS 片段：table_without_headers（增强版） */
+/* 完全隐藏标题行（表头） */
+.table_without_headers table thead {
+    display: none;
+}
+/* 移除表头隐藏后残留的顶部边框（Obsidian 默认在 tbody 上有 border-top） */
+.table_without_headers table tbody {
+    border-top: none !important;
+}
+/* 隐藏实际显示的第一行（原第二行）的顶部边框 */
+.table_without_headers table tbody tr:first-child td {
+    border-top: none !important;
+}

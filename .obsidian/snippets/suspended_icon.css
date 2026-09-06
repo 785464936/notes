@@ -1,0 +1,17 @@
+/* [S] Amount/savings/money ===> suspended */
+input[data-task="s"],
+li[data-task="s"] > input,
+li[data-task="s"] > p > input {
+	&:checked {
+		--checkbox-marker-color: transparent;
+		border-color:#FF8C00;
+		background-color:#FF8C00; /* --checkbox-color */
+		background-size:100%;
+		background-image:url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"%3E%3Cpath fill="white" fill-rule="evenodd" d="M16 8C14.895 8 14 8.895 14 10V38C14 39.105 14.895 40 16 40H18C19.105 40 20 39.105 20 38V10C20 8.895 19.105 8 18 8H16ZM30 8C28.895 8 28 8.895 28 10V38C28 39.105 28.895 40 30 40H32C33.105 40 34 39.105 34 38V10C34 8.895 33.105 8 32 8H30Z" clip-rule="evenodd"%2F%3E%3C%2Fsvg%3E');
+	}
+	.theme-dark & {
+		&:checked {
+			background-image:url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"%3E%3Cpath fill-opacity="0.8" fill="black" fill-rule="evenodd" d="M16 8C14.895 8 14 8.895 14 10V38C14 39.105 14.895 40 16 40H18C19.105 40 20 39.105 20 38V10C20 8.895 19.105 8 18 8H16ZM30 8C28.895 8 28 8.895 28 10V38C28 39.105 28.895 40 30 40H32C33.105 40 34 39.105 34 38V10C34 8.895 33.105 8 32 8H30Z" clip-rule="evenodd"%2F%3E%3C%2Fsvg%3E');
+		}
+	}
+}

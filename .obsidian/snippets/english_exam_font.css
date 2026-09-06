@@ -1,0 +1,10 @@
+/* 为带有 english_exam_font 类的笔记设置正文字体 */
+.english_exam_font {
+    --font-text: "Times New Roman", Times, serif !important;
+}
+
+/* 确保编辑和预览模式都生效 */
+.english_exam_font .cm-content,
+.english_exam_font .markdown-preview-view {
+    font-family: var(--font-text) !important;
+}
