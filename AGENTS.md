@@ -12,11 +12,9 @@ This is a personal notes repository organized using Obsidian.md. It contains aca
 
 ## File Structure
 - **Root directory**: Contains main note files (.md) organized by subject/topic
-- **`01-Projects/`**: Project index notes (考研, 复习, 英语, AI)
+- **`01-Projects/`**: Project index notes (考研, 复习, AI)
 - **`02-Journal/`**: Daily and weekly journal entries
 - **`03-Templates/`**: Note templates for consistent formatting
-- **`.opencode/`**: opencode agent configuration
-  - `skills/update-index-log/`: index.md/log.md maintenance skill
 - **`assets/`**: Supporting files (images, documents, etc.)
   - `fig/`: Figures and diagrams
   - `IloveEnglish/`: English learning assets
@@ -53,7 +51,7 @@ While this repository primarily contains notes rather than code, these guideline
 ### Markdown Style
 - **Headers**: Use `#` syntax consistently (`# H1`, `## H2`, etc.)
 - **Lists**: Use `-` for unordered lists, numbers for ordered lists
-- **Links**: Use `[text](link)` format for internal and external links
+- **Links**: Use `[text](link)` format for external links and `[[linked file#head|display text]]` for internal links
 - **Code Blocks**: Use triple backticks with language specification:
   ```python
   # Python code
@@ -88,11 +86,11 @@ While this repository primarily contains notes rather than code, these guideline
 ### Frontmatter Key Order (OKF v0.2)
 All note frontmatter keys follow this fixed order; skip lines for keys not present:
 
-1. `excalidraw-plugin` - Excalidraw diagrams only
-2. `cssclasses`        - CSS classes
+1. `cssclasses`        - CSS classes
+2. `excalidraw-plugin` - Excalidraw diagrams only
 3. `source_url`        - Source URL
-4. `author`            - Author
-5. `created`           - Creation date
+4. `created`           - Creation date
+5. `author`            - Author
 6. `project`           - Goal axis
 7. `type`              - Form axis: MOC/Note/Exam/Journal/Dashboard/Template/Diagram/Course/Flashcard/Config
 8. `tags`              - Subject axis
@@ -100,8 +98,7 @@ All note frontmatter keys follow this fixed order; skip lines for keys not prese
 10. `year`             - Exam year
 11. `..`               - Parent note (breadcrumb)
 12. `status`           - Lifecycle: draft | stable | deprecated (缺省=stable)
-13. `stale_after`      - 有效期 (YYYY-MM-DD)；today >= stale_after 视为过期
-14. `isArchived`       - Archived flag (boolean)
+13. `isArchived`       - Archived flag (boolean)
 
 Rules:
 - Skip any key not present; keep order fixed.
@@ -156,7 +153,7 @@ When adding content that interacts with these plugins, ensure compatibility and 
 
 ## When Adding New Content
 1. Check if a similar note already exists
-2. Use appropriate templates from the `Templates/` directory
+2. Use appropriate templates from the `03-Templates/` directory
 3. Apply consistent tagging and linking
 4. Verify all technical information for accuracy
 5. Ensure proper Markdown formatting
