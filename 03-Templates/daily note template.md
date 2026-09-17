@@ -8,15 +8,6 @@ status: stable
 ---
 ## TODO
 
-### In Progress
-
-```tasks
-not done
-(created before <% tp.date.now("YYYY-MM-DD") %>) and (scheduled in <% tp.date.now("YYYY-MM-DD") %>)
-```
-
-### New
-
 - [ ] <%*
 setTimeout(() => {
     app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) => {
