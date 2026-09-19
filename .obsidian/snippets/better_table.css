@@ -24,3 +24,67 @@
 .table_without_headers table tbody tr:first-child td {
     border-top: none !important;
 }
+
+/* ===== 三线表基础样式（实线） ===== */
+.three-line-table table {
+  border-collapse: collapse !important;
+  border-top: 2px solid var(--text-normal) !important;
+  border-bottom: 2px solid var(--text-normal) !important;
+  border-left: none !important;
+  border-right: none !important;
+}
+
+.three-line-table table th,
+.three-line-table table td {
+  border: none !important;
+  padding: 0.45em 0.8em;
+}
+
+.three-line-table table thead th {
+  border-bottom: 1px solid var(--text-normal) !important;
+}
+
+/* ===== 仅屏幕预览：显示虚线 ===== */
+@media screen {
+  /* 表格内部行之间的虚线 */
+  .three-line-table table tbody tr + tr {
+    border-top: 1px dashed var(--text-muted) !important;
+  }
+
+  /* 表格内部列之间的虚线 */
+  .three-line-table table th + th,
+  .three-line-table table td + td {
+    border-left: 1px dashed var(--text-muted) !important;
+  }
+
+  /* 可选：表头单元格右侧虚线 */
+  .three-line-table table thead th:not(:last-child) {
+    border-right: 1px dashed var(--text-muted) !important;
+  }
+}
+
+/* ===== 打印/导出时：隐藏所有内部虚线，保持三线表 ===== */
+@media print {
+  .three-line-table table tbody tr + tr {
+    border-top: none !important;
+  }
+
+  .three-line-table table th + th,
+  .three-line-table table td + td {
+    border-left: none !important;
+  }
+
+  .three-line-table table thead th:not(:last-child) {
+    border-right: none !important;
+  }
+
+  /* 确保三线表的主线依然存在 */
+  .three-line-table table {
+    border-top: 2px solid var(--text-normal) !important;
+    border-bottom: 2px solid var(--text-normal) !important;
+  }
+
+  .three-line-table table thead th {
+    border-bottom: 1px solid var(--text-normal) !important;
+  }
+}
