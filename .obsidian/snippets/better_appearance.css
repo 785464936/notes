@@ -35,3 +35,47 @@ strong,
     border-left-color: #8B5CF6 !important;
     border-left-width: 3px !important;
 }
+
+/* =========================================================
+   ![[file#heading|nlk]]
+   ========================================================= */
+
+.internal-embed[alt="nlk"] {
+    position: relative;
+    display: inline-flex !important;
+    align-items: flex-start;
+}
+
+/* 隐藏 Embed 自带标题 */
+.internal-embed[alt="nlk"] > .markdown-embed-title {
+    display: none !important;
+}
+
+/* 隐藏所有标题 */
+.internal-embed[alt="nlk"]
+.markdown-embed-content
+:is(h1, h2, h3, h4, h5, h6),
+.internal-embed[alt="nlk"]
+.markdown-embed-content
+.inline-title {
+    display: none !important;
+}
+
+/* 隐藏 Link Icon */
+.internal-embed[alt="nlk"] .markdown-embed-link {
+    display: none;
+}
+
+.internal-embed .inline-embed {
+    margin-top: 0 !important;
+}
+
+/* 去掉隐藏后留下的顶部空白 */
+.internal-embed[alt="nlk"] .markdown-embed {
+    margin-top: 0 !important;
+}
+.internal-embed[alt="nlk"]
+.markdown-embed-content
+.markdown-preview-sectionlk-child {
+    margin-top: 0 !important;
+}
