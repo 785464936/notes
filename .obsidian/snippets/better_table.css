@@ -11,7 +11,10 @@
     word-break: break-word;
 }
 
-/* Obsidian CSS 片段：table_without_headers（增强版） */
+/* ==========================================
+   ===== .table-without-headers 无头表格 =====
+   ==========================================*/
+
 /* 完全隐藏标题行（表头） */
 .table_without_headers table thead {
     display: none;
@@ -24,6 +27,10 @@
 .table_without_headers table tbody tr:first-child td {
     border-top: none !important;
 }
+
+/* =================
+   ===== 三线表 =====
+   ================= */
 
 /* ===== 三线表基础样式（实线） ===== */
 .three-line-table table {
@@ -87,4 +94,19 @@
   .three-line-table table thead th {
     border-bottom: 1px solid var(--text-normal) !important;
   }
+}
+
+/* ===================
+   ===== 表格居中 =====
+   ===================*/
+
+/* 所有表头无条件居中 */
+.markdown-rendered table thead th {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+/* 居中列，整列居中 */
+.markdown-rendered table td {
+    vertical-align: middle !important;
 }
