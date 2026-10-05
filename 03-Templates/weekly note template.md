@@ -13,7 +13,7 @@ not done
 happens in or before {{date:gggg}}-W{{date:ww}}
 ```
 
-## DONE 
+## DONE
 
 ```tasks
 done

@@ -46,6 +46,7 @@ __pycache__/
 .obsidian/community-plugins.json
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+02-Journal/*W*.md
 
 english-phrases-flashcards.md
 english-words-flashcards.md
