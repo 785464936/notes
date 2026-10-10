@@ -1,0 +1,70 @@
+/* ========== Minimal 紧凑 Callout（压缩整体留白） ========== */
+.callout {
+  --callout-padding: 0.4rem 0.6rem 0.4rem 1.8rem !important;
+  margin-block: 0.4rem !important;
+}
+.callout .callout-title {
+  padding: 0.2rem 0 !important;
+  gap: 0.3rem !important;
+}
+.callout .callout-content {
+  padding-top: 0.2rem !important;
+}
+.callout .callout-content p {
+  margin-block: 0.25rem !important;
+}
+/* 同步缩小图标尺寸，适配紧凑布局 */
+.callout-icon {
+  width: 16px !important;
+  height: 16px !important;
+}
+
+/* ========== 12 类 Callout 对应 Lucide 图标 ========== */
+/* 笔记注释 → 便签图标 */
+.callout[data-callout="note"] {
+  --callout-icon: lucide-sticky-note !important;
+}
+/* 摘要概要 → summary 图标（Lucide 原生别名就是 abstract，语义完全对应） */
+.callout[data-callout="abstract"] {
+  --callout-icon: lucide-summary !important;
+}
+/* 信息说明 → 标准信息图标 */
+.callout[data-callout="info"] {
+  --callout-icon: lucide-info !important;
+}
+/* 技巧提示 → 灯泡灵感图标 */
+.callout[data-callout="tip"] {
+  --callout-icon: lucide-lightbulb !important;
+}
+/* 成功完成 → 圆形对勾 */
+.callout[data-callout="success"] {
+  --callout-icon: lucide-check-circle !important;
+}
+/* 疑问问题 → 圆形问号 */
+.callout[data-callout="question"] {
+  --callout-icon: lucide-help-circle !important;
+}
+/* 警告注意 → 三角警示（轻量提醒） */
+.callout[data-callout="warning"] {
+  --callout-icon: lucide-alert-triangle !important;
+}
+/* 失败错误 → 圆形叉号 */
+.callout[data-callout="failure"] {
+  --callout-icon: lucide-x-circle !important;
+}
+/* 危险高危 → 八边形警示（和 warning 区分级别） */
+.callout[data-callout="danger"] {
+  --callout-icon: lucide-alert-octagon !important;
+}
+/* 漏洞缺陷 → 虫子图标（对应 bug 本义） */
+.callout[data-callout="bug"] {
+  --callout-icon: lucide-bug !important;
+}
+/* 示例范本 → 模板图标 */
+.callout[data-callout="example"] {
+  --callout-icon: lucide-template !important;
+}
+/* 引用引述 → 引号图标 */
+.callout[data-callout="quote"] {
+  --callout-icon: lucide-quote !important;
+}
