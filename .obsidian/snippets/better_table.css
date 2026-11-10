@@ -95,6 +95,10 @@
     border-bottom: 1px solid var(--text-normal) !important;
   }
 }
+/* ===== 表头内容全空时，隐藏表头行 ===== */
+.three-line-table table:not(:has(thead th:not(:empty))) thead {
+  display: none !important;
+}
 
 /* ===================
    ===== 表格居中 =====
