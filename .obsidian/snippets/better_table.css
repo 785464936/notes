@@ -11,29 +11,12 @@
     word-break: break-word;
 }
 
-/* ==========================================
-   ===== .table-without-headers 无头表格 =====
-   ==========================================*/
-
-/* 完全隐藏标题行（表头） */
-.table_without_headers table thead {
-    display: none;
-}
-/* 移除表头隐藏后残留的顶部边框（Obsidian 默认在 tbody 上有 border-top） */
-.table_without_headers table tbody {
-    border-top: none !important;
-}
-/* 隐藏实际显示的第一行（原第二行）的顶部边框 */
-.table_without_headers table tbody tr:first-child td {
-    border-top: none !important;
-}
-
 /* =================
    ===== 三线表 =====
    ================= */
 
 /* ===== 三线表基础样式（实线） ===== */
-.three-line-table table {
+.markdown-rendered table {
   border-collapse: collapse !important;
   border-top: 2px solid var(--text-normal) !important;
   border-bottom: 2px solid var(--text-normal) !important;
@@ -41,62 +24,62 @@
   border-right: none !important;
 }
 
-.three-line-table table th,
-.three-line-table table td {
+.markdown-rendered table th,
+.markdown-rendered table td {
   border: none !important;
   padding: 0.45em 0.8em;
 }
 
-.three-line-table table thead th {
+.markdown-rendered table thead th {
   border-bottom: 1px solid var(--text-normal) !important;
 }
 
 /* ===== 仅屏幕预览：显示虚线 ===== */
 @media screen {
   /* 表格内部行之间的虚线 */
-  .three-line-table table tbody tr + tr {
+  .markdown-rendered table tbody tr + tr {
     border-top: 1px dashed var(--text-muted) !important;
   }
 
   /* 表格内部列之间的虚线 */
-  .three-line-table table th + th,
-  .three-line-table table td + td {
+  .markdown-rendered table th + th,
+  .markdown-rendered table td + td {
     border-left: 1px dashed var(--text-muted) !important;
   }
 
   /* 可选：表头单元格右侧虚线 */
-  .three-line-table table thead th:not(:last-child) {
+  .markdown-rendered table thead th:not(:last-child) {
     border-right: 1px dashed var(--text-muted) !important;
   }
 }
 
 /* ===== 打印/导出时：隐藏所有内部虚线，保持三线表 ===== */
 @media print {
-  .three-line-table table tbody tr + tr {
+  .markdown-rendered table tbody tr + tr {
     border-top: none !important;
   }
 
-  .three-line-table table th + th,
-  .three-line-table table td + td {
+  .markdown-rendered table th + th,
+  .markdown-rendered table td + td {
     border-left: none !important;
   }
 
-  .three-line-table table thead th:not(:last-child) {
+  .markdown-rendered table thead th:not(:last-child) {
     border-right: none !important;
   }
 
   /* 确保三线表的主线依然存在 */
-  .three-line-table table {
+  .markdown-rendered table {
     border-top: 2px solid var(--text-normal) !important;
     border-bottom: 2px solid var(--text-normal) !important;
   }
 
-  .three-line-table table thead th {
+  .markdown-rendered table thead th {
     border-bottom: 1px solid var(--text-normal) !important;
   }
 }
 /* ===== 表头内容全空时，隐藏表头行 ===== */
-.three-line-table table:not(:has(thead th:not(:empty))) thead {
+.markdown-rendered table:not(:has(thead th:not(:empty))) thead {
   display: none !important;
 }
 
