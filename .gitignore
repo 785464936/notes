@@ -47,6 +47,8 @@ __pycache__/
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 02-Journal/*W*.md
+02-Journal/[0-9][0-9][0-9][0-9].md
+02-Journal/[0-9][0-9][0-9][0-9]-[0-9][0-9].md
 
 english-phrases-flashcards.md
 english-words-flashcards.md
