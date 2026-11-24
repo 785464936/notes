@@ -3,7 +3,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 type: Template
 tags:
   - Journal/daily
-week: "[[{{date:gggg}}-W{{date:ww}}]]"
+period: "[[{{date:gggg}}-W{{date:ww}}|daily]]"
 status: stable
 ---
 ## TODO
